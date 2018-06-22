@@ -1,0 +1,2845 @@
+[
+{
+    "id" : " 3",
+    "il" : " 34",
+    "ad" : " EVSHOP MALTEPE ",
+    "adres" : " BAĞDAT CD NO:445/C  MALTEPE / İSTANBUL ",
+    "tel" : " 0216 305 71 12-14"
+},
+{
+    "id" :  "4",
+    "il" :  "34",
+    "ad" :  "EVSHOP ÜMRANİYE",
+    "adres" :  "ALEMDAĞ CD NO:86 ÜMRANİYE/İST" ,
+    "tel" : "0216 521 59 19-39"
+},
+{
+    "id" :  "5",
+    "il" :  "34",
+    "ad" :  "EVSHOP SEFAKÖY",
+    "adres" : " TEVFİKBEY MH KİRAZLI SK NO:6/1 SEFAKÖY/İST ",
+    "tel" :  "0212 624 64 74-75"
+},
+{
+    "id" :  "6",
+    "il" :  "34",
+    "ad" :  "EVSHOP BAĞCILAR ",
+    "adres" :  "SANCAKTEPE MH OKUL SK NO:7/2 BAĞCILAR/İST ",
+    "tel" : " 0212 634 57 72"
+},
+
+{
+    "id" : " 7",
+    "il" : " 34",
+    "ad" : " EVSHOP LEVENT ",
+    "adres" : " SANAYİ MH SULTANSELİM CD NO:71 LEVENT/İST ",
+    "tel" : " 0212 280 71 66"
+},
+{
+    "id" : " 8",
+    "il" : " 34",
+    "ad" : " EVSHOP BAYRAMPAŞA ",
+    "adres" : " DEMİRKAPI CD NO:55 BAYRAMPAŞA/İST ",
+    "tel" : " 0212 577 02 34-40"
+},
+{
+    "id" : " 9",
+    "il" : " 34",
+    "ad" : " YÖN AVM PENDİK ", 
+    "adres" : " BATI MH GAZİPAŞA CD N:41 PENDIK ",
+    "tel" : " 0216 390 81 45-375 75 75"
+},
+{
+    "id" : " 10",
+    "il" : " 34",
+    "ad" : " YÖN AVM KARTAL ",
+    "adres" : " ANKARA CD N:38 KARTAL ",
+    "tel" : " 0216 488 80 90-488 12 19"
+},
+{
+    "id" : " 11",
+    "il" : " 34",
+    "ad" : " YÖN AVM ÜMRANİYE ",
+    "adres" : " ATATÜRK MH ALEMDAĞ CD N:51 ÜMRANİYE ",
+    "tel" : " 0216 412 98 50-412 30 60"
+},
+{
+    "id" : " 12",
+    "il" : " 34",
+    "ad" : " YÖN AVM ÜMRANİYE 2 ",
+    "adres" : " ATATÜRK MH ALEMDAĞ CD N:63 ÜMRANİYE ",
+    "tel" : " 0216 521 68 22-23-27"
+},
+{
+    "id" : " 13",
+    "il" : " 34",
+    "ad" : " YÖN AVM G.O.P ",
+    "adres" : " BAĞLARBAŞI MH BAĞLARBAŞI CD N:18 GAZİOSMANPAŞA ",
+    "tel" : " 0212 615 07 31-615 15 56"
+},
+{
+    "id" : " 14",
+    "il" : " 34",
+    "ad" : " YÖN AVM ZEYTİNBURNU ",
+    "adres" : " YENİDOĞAN MH 58 BULVAR CD N:116 ZEYTİNBURNU ",
+    "tel" : " 0212 679 45 52-679 44 08"
+},
+{
+    "id" : " 15",
+    "il" : " 34",
+    "ad" : " ENGİN HALI ",
+    "adres" : " YILDIRIM BEYAZIT CAD. NO:174 YENBOSNA BAHÇELİEVLER",
+    "tel" : " 0212 652 40 40"
+},
+{
+    "id" : " 18",
+    "il" : " 34",
+    "ad" : " GÜMÜŞ ÇEYİZ ",
+    "adres" : " BATI MAH. ORHA MALTEPE CAD. NO: 27/2 PENDİK ",
+    "tel" : " 0216 390 39 48"
+},
+{
+    "id" : " 19",
+    "il" : " 34",
+    "ad" : " HOME WORLD ",
+    "adres" : " ATATÜRK CAD. CEBESOY SK. NO:65 KOZYATAĞI ",
+    "tel" : " 0216 467 27 31"
+},
+{
+    "id" : " 20",
+    "il" : " 34",
+    "ad" : " İSTANBUL AVM PENDİK ",
+    "adres" : " GAZİPAŞA CAD. NO:37 PENDİK ",
+    "tel" : " 0216 354 66 33"
+},
+{
+    "id" : " 21",
+    "il" : " 34",
+    "ad" : " İSTANBUL AVM KARTAL ",
+    "adres" : " ANKARA CAD. NO:59 KARTAL ",
+    "tel" : " 0216 306 10 70"
+},
+{
+    "id" : " 22",
+    "il" : " 34",
+    "ad" : " İSTANBUL AVM CEVİZLİ ",
+    "adres" : " ÇINAR MAH. NO: 11 CEVİZLİ ",
+    "tel" : " 0216 305 04 79"
+},
+{
+    "id" : " 23",
+    "il" : " 34",
+    "ad" : " İSTANBUL AVM MALTEPE ",
+    "adres" : " BAĞDAT CAD. NO:114 MALTEPE",
+    "tel" : " 0216 399 62 49"
+},
+{
+    "id" : " 24",
+    "il" : " 34",
+    "ad" : " İSTANBUL AVM KADIKÖY ",
+    "adres" : " SÖĞÜTLÜÇEŞME CAD. NO:35 KADIKÖY ",
+    "tel" : " 0216 330 19 87"
+},
+{
+    "id" : " 25",
+    "il" : " 34",
+    "ad" : " İSTANBUL AVM ÜMRANİYE ",
+    "adres" : " ALEMDAĞ CAD. NO: 83 ÜMRANİYE ",
+    "tel" : " 0216 329 70 44"
+},
+{
+    "id" : " 26",
+    "il" : " 34",
+    "ad" : " İSTANBUL AVM BEŞİKTAŞ ",
+    "adres" : " KÖYİÇİ CAD. NO: 39 BEŞİKTAŞ",
+    "tel" : " 0212 227 85 00 "
+},
+{
+    "id" : " 27",
+    "il" : " 34",
+    "ad" : " İSTANBUL AVM ESENLER ",
+    "adres" : " DAVUTPAŞA CAD. NO:47 ESENLER ",
+    "tel" : " 0212 611 10 30 "
+},
+{
+    "id" : " 28",
+    "il" : " 34",
+    "ad" : " EVKUR ARNAVUTKÖY ",
+    "adres" : " MERKEZ MAH. FATİH CAD. NO: 88 ARNAVUTKÖY",
+    "tel" : " 0212 597 93 94"
+},
+{
+    "id" : " 29",
+    "il" : " 34",
+    "ad" : " EVKUR PARSELLER ",
+    "adres" : " ÜNİ. MAH. ŞEHİT ERDOĞAN ÇABUK SOK. NO:1 PARSELLER - AVCILAR",
+    "tel" : " 0212 509 03 24"
+},
+{
+    "id" : " 30",
+    "il" : " 34",
+    "ad" : " EVKUR AVCILAR ",
+    "adres" : " MERKEZ MAH. MARMARA CAD. NO:25 AVCILAR",
+    "tel" : " 0212 509 00 74 / 695 59 25"
+},
+{
+    "id" : " 31",
+    "il" : " 34",
+    "ad" : " EVKUR BAĞCILAR ",
+    "adres" : " SANCAKTEPE MAH. ÇARŞI CAD. NO:61 BAĞCILAR",
+    "tel" : " 0212 435 21 00 / 435 02 86"
+},
+{
+    "id" : " 32",
+    "il" : " 34",
+    "ad" : " EVKUR BAKIRKÖY ",
+    "adres" : " CEVİZLİK MAH. İSTANBUL CAD. NO:6 BAKIRKÖY",
+    "tel" : " 0212 660 81 83"
+},
+{
+    "id" : " 33",
+    "il" : " 34",
+    "ad" : " EVKUR BAYRAMPAŞA ",
+    "adres" : " YENİDOĞAN MAH. DEMİRKAPI CAD. NO:12 BAYRAMPAŞA",
+    "tel" : " 0212 493 22 70"
+},
+{
+    "id" : " 34",
+    "il" : " 34",
+    "ad" : " EVKUR SEFAKÖY ",
+    "adres" : " BEŞYOL MAH. ÇİMEN SOK. NO: 21 SEFAKÖY/K.ÇEKMECE",
+    "tel" : " 0212 599 27 14"
+},
+{
+    "id" : " 35",
+    "il" : " 34",
+    "ad" : " EVKUR ESENLER ",
+    "adres" : " NİNEHATUN MAH. DAVUTPAŞA CAD. NO:18 ESENLER",
+    "tel" : " 0212 568 20 00"
+},
+{
+    "id" : " 36",
+    "il" : " 34",
+    "ad" : " EVKUR ESENYURT ",
+    "adres" : " YENİKENT MAH. DOĞAN ARASLI CAD. NO: 190 ESENYURT",
+    "tel" : " 0212 450 09 44 / 77 / 88"
+},
+{
+    "id" : " 37",
+    "il" : " 34",
+    "ad" : " EVKUR EYÜP ",
+    "adres" : " FAHRİ KORUTÜRK CAD. NO:22 EYÜP",
+    "tel" : " 0212 616 51 06"
+},
+{
+    "id" : " 38",
+    "il" : " 34",
+    "ad" : " EVKUR FATİH ",
+    "adres" : " FEVZİPAŞA CAD. NO:129/A FATİH"     ,   
+    "tel" : " 0212 635 47 58"
+},
+{
+    "id" : " 39",
+    "il" : " 34",
+    "ad" : " EVKUR G.O.P  ",
+    "adres" : " BAĞLARBAŞI MAH. BAĞLARBAŞI CAD. NO:35 GAZİOSMANPAŞA",
+    "tel" : " 0212 545 18 63 / 417 80 57"
+},
+{
+    "id" : " 40",
+    "il" : " 34",
+    "ad" : " EVKUR GÜLTEPE ",
+    "adres" : " ORTABAYIR MAH. TALATPAŞA CAD. NO:92/A-B GÜLTEPE",
+    "tel" : " 0212 279 07 55 / 282 61 31"
+},
+{
+    "id" : " 41",
+    "il" : " 34",
+    "ad" : " EVKUR İKİTELLİ ",
+    "adres" : " HALKALI BASIN EKSPRES YOLU NO: 31 K.ÇEKMECE",
+    "tel" : " 0212 473 47 40"
+},
+{
+    "id" : " 42",
+    "il" : " 34",
+    "ad" : " EVKUR KADIKÖY ",
+    "adres" : " SÖĞÜTLÜÇEŞME CAD. DİREKLİ HAN NO:21 KADIKÖY",
+    "tel" : " 0216 418 54 56"
+},
+{
+    "id" : " 43",
+    "il" : " 34",
+    "ad" : " EVKUR KARTAL ",
+    "adres" : " ANKARA CAD. NO:9 KARTAL",
+    "tel" : " 0216 488 26 40"
+},
+{
+    "id" : " 44",
+    "il" : " 34",
+    "ad" : " EVKUR MALTEPE ",
+    "adres" : " BAĞDAT CAD. NO:108 MALTEPE",
+    "tel" : " 0216 442 99 79 / 80"
+},
+{
+    "id" : " 45",
+    "il" : " 34",
+    "ad" : " EVKUR BAĞCILAR ",
+    "adres" : " YENİGÜN MAH. BAĞCILAR CAD. NO:179 BAĞCILAR",
+    "tel" : " 0212 461 10 62 / 53 / 39 / 24"
+},
+{
+    "id" : " 46",
+    "il" : " 34",
+    "ad" : " EVKUR PENDİK ",
+    "adres" : " DOĞU MAH. GAZİPAŞA CAD. NO:43 PENDİK",
+    "tel" : " 0216 491 8716"
+},
+{
+    "id" : " 47",
+    "il" : " 34",
+    "ad" : " EVKUR SARIYER ",
+    "adres" : " ŞEHİT MİTHAT YILMAZ CAD. NO:29 SARIYER",
+    "tel" : " 0212 218 39 39"
+},
+{
+    "id" : " 48",
+    "il" : " 34",
+    "ad" : " EVKUR - SARIYER 2 ",
+    "adres" : " ŞEHİT MİTHAT YILMAZ CAD. NO:2 SARIYER",
+    "tel" : " 0212 218 50 00"
+},
+{
+    "id" : " 49",
+    "il" : " 34",
+    "ad" : " EVKUR SEFAKÖY ",
+    "adres" : " TEVFİK BEY MAH. MERKEZ CAD. NO:32 SEFAKÖY",
+    "tel" : " 0212 424 62 62"
+},
+{
+    "id" : " 50",
+    "il" : " 34",
+    "ad" : " EVKUR SULTANBEYLİ ",
+    "adres" : " MEHMET AKİF ERSOY MAH. FATİH BULVARI NO:139 SULTANBEYLİ",
+    "tel" : " 0216 419 00 66"
+},
+{
+    "id" : " 51",
+    "il" : " 34",
+    "ad" : " EVKUR ŞİŞLİ ",
+    "adres" : " HALASKARGAZİ CAD. KURAN İŞ MERKEZİ NO:145/B ŞİŞLİ",
+    "tel" : " 0212 231 32 11 / 234 90 28"
+},
+{
+    "id" : " 52",
+    "il" : " 34",
+    "ad" : " EVKUR ÜMRANİYE ",
+    "adres" : " ATATÜRK MAH. ALEMDAĞ CAD. NO:106 ÜMRANİYE",
+    "tel" : " 0216 523 85 89 / 90"
+},
+{
+    "id" : " 53",
+    "il" : " 34",
+    "ad" : " EVKUR ÜSKÜDAR ",
+    "adres" : " SELMANİPAK CAD. SELMANAĞA MAH. NO:28 ÜSKÜDAR",
+    "tel" : " 0216 343 00 21 / 333 03 16"
+},
+{
+    "id" : " 54",
+    "il" : " 34",
+    "ad" : " EVKUR ÜSKÜDAR 2",
+    "adres" : " KEFCEDEDE MAH. HALK CAD. NO:4 ÜSKÜDAR",
+    "tel" : " 0216 310 73 63 / 310 72 69"
+},
+{
+    "id" : " 55",
+    "il" : " 34",
+    "ad" : " EVKUR YAYLA ",
+    "adres" : " FERİT SELİM PAŞA CAD. NO: 10 BAHÇELİEVLER",
+    "tel" : " 0212 441 32 00"
+},
+{
+    "id" : " 56",
+    "il" : " 34",
+    "ad" : " EVKUR YENİ BOSNA ",
+    "adres" : " YILDIRIM BEYAZIT CAD. NO:81 YENİBOSNA/BAHÇELİEVLER",
+    "tel" : " 0212 653 90 96"
+},
+{
+    "id" : " 57",
+    "il" : " 34",
+    "ad" : " EVKUR ZEYTİNBURNU ",
+    "adres" : " YEŞİLTEPE MAH. 58. BULVAR CAD. NO:70 ZEYTİNBURNU",
+    "tel" : " 0212 664 89 89 / 90"
+},
+{
+    "id" : " 59",
+    "il" : " 34",
+    "ad" : " İSTANBUL TİC KARTAL 1 ",
+    "adres" : " ANKARA CD NO 23 KARTAL",
+    "tel" : " 0216 387 77 77"
+},
+{
+    "id" : " 60",
+    "il" : " 34",
+    "ad" : " İSTANBUL TİC KARTAL 2 ",
+    "adres" : " ANKARA CD NO 71 KARTAL",
+    "tel" : " 0216.488.31.31"
+},
+{
+    "id" : " 61",
+    "il" : " 34",
+    "ad" : " İSTANBUL TİC ÜSKÜDAR ",
+    "adres" : " USKUDAR CD.NO:8 KARTAL",
+    "tel" : " 0216 488 71 59"
+},
+{
+    "id" : " 62",
+    "il" : " 34",
+    "ad" : " İSTANBUL TİC KAYNARCA ",
+    "adres" : " FEVZI CAKMAK MH FEVZI CAKMAK CD NO:12 PENDIK",
+    "tel" : " 0216 397 66 50"
+},
+{
+    "id" : " 63",
+    "il" : " 34",
+    "ad" : " ZEKİ ZÜCCACİYE ",
+    "adres" : " GİRNE MAH. ATATÜRK CAD. NO:41 MALTEPE",
+    "tel" : " 0216 457 21 00"
+},
+{
+    "id" : " 65",
+    "il" : " 34",
+    "ad" : " MODA CITY ",
+    "adres" : " ÇINAR MAH. BAĞDAT CAD. MERT APT. NO:146 KÜÇÜKYALI",
+    "tel" : " "
+},
+{
+    "id" : " 66",
+    "il" : " 1",
+    "ad" : " EVSHOP ADANA  ",
+    "adres" : " CAKMAK CD NO:116 SEYHAN",
+    "tel" : " 0322 363 67 40-41"
+},
+{
+    "id" : " 67",
+    "il" : " 6",
+    "ad" : " EVSHOP KIZILAY ",
+    "adres" : " İZMİR CD NO:7/A KIZILAY",
+    "tel" : " 0312 231 84 68-69"
+},
+{
+    "id" : " 68",
+    "il" : " 6",
+    "ad" : " EVSHOP DEMETEVLER ",
+    "adres" : " İVEDİK CD NO:464 DEMETEVLER",
+    "tel" : " 0312 336 90 44"
+},
+{
+    "id" : " 69",
+    "il" : " 6",
+    "ad" : " EVSHOP KEÇİÖREN ",
+    "adres" : " NURİ PAMİR CAD.NO:37/B KEÇİÖREN ",
+    "tel" : " 0312 382 53 22"
+},
+{
+    "id" : " 70",
+    "il" : " 6",
+    "ad" : " EVKUR ÇANKAYA ",
+    "adres" : " ATATÜRK BULVARI KIZILAY MAH. NO:92 ÇANKAYA ",
+    "tel" : " 0312 418 43 93"
+},
+{
+    "id" : " 71",
+    "il" : " 16",
+    "ad" : " EVSHOP HEYKEL  ",
+    "adres" : " İNÖNÜ CD NO:8 HEYKEL",
+    "tel" : " 0224 225 57 18-19"
+},
+{
+    "id" : " 72",
+    "il" : " 16",
+    "ad" : " EVSHOP HEYKEL PLZ",
+    "adres" : " ATATÜRK CD NO:55 HEYKEL",
+    "tel" : " 0224 220 18 93-95"
+},
+{
+    "id" : " 73",
+    "il" : " 16",
+    "ad" : " YÖN AVM BURSA ",
+    "adres" : " ŞEKEROCAĞI MH ATATÜRK CD N:77/C BURSA ",
+    "tel" : " 0224 221 70 02-221 76 72"
+},
+{
+    "id" : " 74",
+    "il" : " 16",
+    "ad" : " YÖN AVM BURSA 2 ",
+    "adres" : " NALBANTOĞLU MH ATATÜRK CD N:63 BURSA ",
+    "tel" : " 0224 224 10 34-224 10 35"
+},
+{
+    "id" : " 75",
+    "il" : " 16",
+    "ad" : " SHM EV GEREÇLERİ ",
+    "adres" : " AKÇAĞLAYAN MAH. ÇİÇEK CAD. NO: 36 YILDIRIM",
+    "tel" : " 0224 327 76 21"
+},
+{
+    "id" : " 76",
+    "il" : " 16",
+    "ad" : " KONAKLI İKİZLER ",
+    "adres" : " BAĞLARBAŞI MAH. OKUL CAD. NO: 42 OSMANGAZİ ",
+    "tel" : " 0224 271 50 77"
+},
+{
+    "id" : " 77",
+    "il" : " 16",
+    "ad" : " GENCO AVM ",
+    "adres" : " GÜL BAHÇE MAH. VARDAR CAD. NO: 131 OSMANGAZİ",
+    "tel" : " 0224 223 66 60"
+},
+{
+    "id" : " 78",
+    "il" : " 16",
+    "ad" : " EVKUR BURSA ",
+    "adres" : " HAYRETTİNPAŞA MAH. TUZ PAZARI CAD. NO:107 16020 BURSA ",
+    "tel" : " 0224 224 98 30 / 31"
+},
+{
+    "id" : " 79",
+    "il" : " 16",
+    "ad" : " EVKUR OSMANGAZİ ",
+    "adres" : " ATATÜRK CAD. NO:67 OSMANGAZİ",
+    "tel" : " 0224 224 77 55 / 224 44 98"
+},
+{
+    "id" : " 80",
+    "il" : " 16",
+    "ad" : " EVKUR İNEGÖL ",
+    "adres" : " ATATÜRK BULVARI AYBAR İŞ SARAYI NO:14 İNEGÖL",
+    "tel" : " 0224 711 75 11"
+},
+{
+    "id" : " 81",
+    "il" : " 59",
+    "ad" : " EVSHOP ÇORLU",
+    "adres" : " OMURTAK CD NO:180 ÇORLU ",
+    "tel" : " 0282 653 54 34-35-36"
+},
+{
+    "id" : " 82",
+    "il" : " 59",
+    "ad" : " YÖN AVM ÇORLU ",
+    "adres" : " KAZİMİYE MH OMURTAK CD N:17 ÇORLU ",
+    "tel" : " 0282 654 87 47-48-49"
+},
+{
+    "id" : " 83",
+    "il" : " 59",
+    "ad" : " EVKUR ÇORLU",
+    "adres" : " OMURTAK CAD. İSTANBUL KISMI NO:188 ÇORLU",
+    "tel" : " 0282 654 81 81 / 653 70 70"
+},
+{
+    "id" : " 84",
+    "il" : " 59",
+    "ad" : " EVKUR ÇORLU 2 ",
+    "adres" : " OMURTAK CAD. İSTANBUL KISMI NO: 111 ÇORLU",
+    "tel" : " 0282 653 50 05"
+},
+{
+    "id" : " 85",
+    "il" : " 59",
+    "ad" : " EVKUR TEKİRDAĞ",
+    "adres" : " HÜKÜMET CAD. NO:28 MERKEZ/TEKİRDAĞ ",
+    "tel" : " 0282 264 27 10"
+},
+{
+    "id" : " 86",
+    "il" : " 42",
+    "ad" : " EVSHOP KONYA ",
+    "adres" : " MEVLANA CD NO:11 KONYA ",
+    "tel" : " 0332 351 14 79-80"
+},
+{
+    "id" : " 87",
+    "il" : " 42",
+    "ad" : " YÖN AVM KONYA ",
+    "adres" : " GAZİALEMSAH MH ALAADDİN BULVARI CD N:44 KONYA ",
+    "tel" : " 0332 353 71 51-353 47 21"
+},
+{
+    "id" : " 88",
+    "il" : " 42",
+    "ad" : " EVKUR SELÇUKLU",
+    "adres" : " HAMİDİYE MAH. ALAADDİN BULVARI NO:2 SELÇUKLU",
+    "tel" : " 0332 351 89 89 / 351 85 55"
+},
+{
+    "id" : " 89",
+    "il" : " 41",
+    "ad" : " EVKUR İZMİT",
+    "adres" : " TEPECİK MAH. İSTİKLAL CAD. NO:51 İZMİT",
+    "tel" : " 0262 325 04 89 / 324 13 15"
+},
+{
+    "id" : " 90",
+    "il" : " 41",
+    "ad" : " YÖN AVM GEBZE ",
+    "adres" : " ESKİ ÇARŞI MH HÜKÜMET CD N:29 GEBZE ",
+    "tel" : " 0262 642 24 55-642 24 56"
+},
+{
+    "id" : " 91",
+    "il" : " 41",
+    "ad" : " YÖN AVM GEBZE 2",
+    "adres" : " ESKİ ÇARŞI MH HÜKÜMET CD N:36 GEBZE ",
+    "tel" : " 0262 644 11 32-644 11 34"
+},
+{
+    "id" : " 92",
+    "il" : " 41",
+    "ad" : " YÖN AVM İZMİT ",
+    "adres" : " FETHİYE CD N:41 İZMİT ",
+    "tel" : " 0262 324 83 11-13-14"
+},
+{
+    "id" : " 93",
+    "il" : " 41",
+    "ad" : " YÖN AVM İZMİT 2",
+    "adres" : " İSTİKLAL CD N:128 İZMİT",
+    "tel" : " 0262 332 27 38"
+},
+{
+    "id" : " 94",
+    "il" : " 54",
+    "ad" : " YÖN AVM ADAPAZARI ",
+    "adres" : " ÇARK CD N:73 ADAPAZARI ",
+    "tel" : " 0264 282 07 93-94-95"
+},
+{
+    "id" : " 95",
+    "il" : " 54",
+    "ad" : " EVKUR ADAPAZARI ",
+    "adres" : " SEMERCİLER MAH. ÇARK CAD. NO:15 ADAPAZARI",
+    "tel" : " 0264 270 18 70"
+},
+{
+    "id" : " 96",
+    "il" : " 39",
+    "ad" : " YÖN AVM LÜLEBURGAZ",
+    "adres" : " YENİ MH İSTANBUL CD N:63 LÜLEBURGAZ ",
+    "tel" : " 0288 417 86 77-417 89 67"
+},
+{
+    "id" : " 97",
+    "il" : " 67",
+    "ad" : " YÖN AVM ZONGULDAK",
+    "adres" : " MİTPAŞA MH GAZİPAŞA CD N:75 ZONGULDAK ",
+    "tel" : " 0372 251 68 46-47-55-71"
+},
+{
+    "id" : " 98",
+    "il" : " 20",
+    "ad" : " YÖN AVM DENİZLİ 2",
+    "adres" : " SARAYLAR MH SELÇUK CD N:27/A BAYRAMYERİ DENİZLİ ",
+    "tel" : " 0258 265 05 16-17-18"
+},
+{
+    "id" : " 99",
+    "il" : " 20",
+    "ad" : " YÖN AVM DENİZLİ ",
+    "adres" : " UÇANBAŞI MH ATATÜRK BULVARI CD N:97 DENİZLİ ",
+    "tel" : " 0258 241 02 72-82-92"
+},
+{
+    "id" : " 100",
+    "il" : " 55",
+    "ad" : " YÖN AVM SAMSUN ",
+    "adres" : " MECİDİYE CD AFİTAP SK N:8 MERKEZ/SAMSUN ",
+    "tel" : " 0362 333 31 01-02-03-04"
+},
+{
+    "id" : " 101",
+    "il" : " 52",
+    "ad" : " YÖN AVM ORDU ",
+    "adres" : " ŞARKİYE MAH. SÜLEYMAN FELEK CAD. NO:124 ",
+    "tel" : " 0452 222 03 13-14-15"
+},
+{
+    "id" : " 102",
+    "il" : " 77",
+    "ad" : " GENCO EV GEREÇLERİ ",
+    "adres" : " CUMHURİYET CAD. NO:18 YALOVA ",
+    "tel" : " 0226 813 38 13"
+},
+{
+    "id" : " 103",
+    "il" : " 45",
+    "ad" : " EVKUR AKHİSAR",
+    "adres" : " PAŞA MAH. TAHİRUN CAD. NO:74 AKHİSAR",
+    "tel" : " 0236 413 38 31 / 413 64 31"
+},
+{
+    "id" : " 104",
+    "il" : " 45",
+    "ad" : " EVKUR MANİSA ",
+    "adres" : " UTKU MAH. 8 EYLÜL CAD. NO:15 MERKEZ/MANİSA ",
+    "tel" : " 0236 232 91 29"
+},
+{
+    "id" : " 105",
+    "il" : " 7",
+    "ad" : " EVKUR ANTALYA ",
+    "adres" : " TAHILPAZARI MAH. KAZIM ÖZALP CAD. NO: 70 MERKEZ/ANTALYA ",
+    "tel" : " 0242 248 48 08 / 248 27 47"
+},
+{
+    "id" : " 106",
+    "il" : " 7",
+    "ad" : " EVKUR ANTALYA E-5 ",
+    "adres" : " YEŞİLOVA MAH. ASPENDOS BULVARI  - ANTALYA ",
+    "tel" : " 0242 322 60 09"
+},
+{
+    "id" : " 107",
+    "il" : " 10",
+    "ad" : " EVKUR BALIKESİR",
+    "adres" : " MİLLİ KUVVETLER CAD. ÖZHANCI İŞ HANI NO:32 MERKEZ/BALIKESİR ",
+    "tel" : " 0266 245 70 11 / 26"
+},
+{
+    "id" : " 108",
+    "il" : " 10",
+    "ad" : " EVKUR EDREMİT ",
+    "adres" : " SOĞANYEMEZ MAH. CUMHURİYET MEYDANI CUMHURİYET PLAZA EDREMİT/BALIKESİR ",
+    "tel" : " 0266 374 41 12 / 13"
+},
+{
+    "id" : " 109",
+    "il" : " 14",
+    "ad" : " EVKUR BOLU ",
+    "adres" : " TABAKLAR MAH. İZZET BAYSAL CAD. NO:48/A MERKEZ/BOLU",
+    "tel" : " 0374 212 83 01"
+},
+{
+    "id" : " 110",
+    "il" : " 81",
+    "ad" : " EVKUR DÜZCE ",
+    "adres" : " CAMİKEBİR MAH. İSTANBUL CAD. NO:17 MERKEZ/DÜZCE ",
+    "tel" : " 0380 514 89 05 / 49"
+},
+{
+    "id" : " 111",
+    "il" : " 26",
+    "ad" : " EVKUR ESKİŞEHİR ",
+    "adres" : " ARİFİYE MAH. HAMAM YOLU CAD. NO:66 MERKEZ/ESKİŞEHİR ",
+    "tel" : " 0222 230 00 46"
+},
+{
+    "id" : " 112",
+    "il" : " 27",
+    "ad" : " EVKUR GAZİANTEP ",
+    "adres" : " CUKUR MAH. GAZİLER CAD. NO:100  - GAZİANTEP",
+    "tel" : " 0342 220 38 08"
+},
+{
+    "id" : " 113",
+    "il" : " 78",
+    "ad" : " EVKUR KARABÜK ",
+    "adres" : " BAYIR MAH. KEMALGÜNEŞ CAD. NO:124 KARABÜK ",
+    "tel" : " 0370 412 63 34"
+},
+{
+    "id" : " 114",
+    "il" : " 43",
+    "ad" : " EVKUR KÜTAHYA ",
+    "adres" : " MECİDİYE MAH. CUMHURİYET CAD. SEVGİ YOLU NO:67 KÜTAHYA ",
+    "tel" : " 0274 224 71 33 / 224 18 47"
+},
+{
+    "id" : " 115",
+    "il" : " 33",
+    "ad" : " EVKUR MERSİN ",
+    "adres" : " CAMİ-İŞERİF MAH. HASTANE CAD. NO:54 MERSİN ",
+    "tel" : " 0324 237 55 88"
+},
+{
+    "id" : " 116",
+    "il" : " 61",
+    "ad" : " EVKUR TRABZON",
+    "adres" : " ÇARŞI MAH. ALACAN SOK. NO:2 TRABZON ",
+    "tel" : " 0462 326 38 22"
+},
+{
+    "id" : " 117",
+    "il" : " 61",
+    "ad" : " İSTANBUL TİC TRABZON ",
+    "adres" : " KAHRAMANMARAS CD NO:31 TRABZON ",
+    "tel" : " 0462-326 26 94"
+},
+{
+    "id" : " 118",
+    "il" : " 34",
+    "ad" : " SAFİR AVM",
+    "adres" : " DEMİRKAPI CAD. NO:52-54 BAYRAMPAŞA / İSTANBUL",
+    "tel" : " 0212 612 42 88"
+},
+{
+    "id" : " 119",
+    "il" : " 34",
+    "ad" : " SAFİR AVM",
+    "adres" : " YILDIRIM MAH. ALİ FUAT BAŞGİL CAD. NO:43/A 500 EVLER / İSTANBUL",
+    "tel" : " 0212 609 01 04"
+},
+{
+    "id" : " 120",
+    "il" : " 34",
+    "ad" : " GÜRÜNLÜLER TEKSTİL",
+    "adres" : " - E-5 YOLU CİHANGİR MEHALLESİ NO:229 KAT:3 AVCILAR/İSTANBUL ",
+    "tel" : " 0212 422 09 82"
+},
+{
+    "id" : " 121",
+    "il" : " 34",
+    "ad" : " EVKUR GÜNEŞLİ",
+    "adres" : " - MERKEZ MAH. EVREN CAD. NO:40 GÜNEŞLİ BAĞCILAR/İSTANBUL ",
+    "tel" : " 0212 550 19 58"
+},
+{
+    "id" : " 122",
+    "il" : " 6",
+    "ad" : " EVSHOP SİNCAN",
+    "adres" : " ATATÜRK CAD. NO: 22 SİNCAN / ANKARA",
+    "tel" : " 0312 268 38 41"
+},
+{
+    "id" : " 123",
+    "il" : " 41",
+    "ad" : " İSTANBUL AVM GÖLCÜK",
+    "adres" : " MERKEZ MAH. AMİRAL SAĞLAM CAD. NO: 28 GÖLCÜK",
+    "tel" : " 0262 400 00 58"
+},
+{
+    "id" : " 125",
+    "il" : " 34",
+    "ad" : " CONFİDENT MECİDİYEKÖY",
+    "adres" : " SELAHATTİN PINAR CAD. NO:18 MECİDİYEKÖY",
+    "tel" : " 0212 212 70 41"
+},
+{
+    "id" : " 126",
+    "il" : " 34",
+    "ad" : " CONFİDENT GÜLTEPE",
+    "adres" : " TALATPAŞA CAD. NO:85 GÜLTEPE",
+    "tel" : " 0212 269 03 18"
+},
+{
+    "id" : " 127",
+    "il" : " 34",
+    "ad" : " CONFİDENT LEVENT",
+    "adres" : " ESKİ BÜYÜKDERE CAD. NO:11 LEVENT",
+    "tel" : " 0212 324 69 47"
+},
+{
+    "id" : " 128",
+    "il" : " 34",
+    "ad" : " CONFİDENT YENİBOSNA",
+    "adres" : " ZAFER MAH. YILDIRIM BEYAZIT CAD.  NO:64/A YENİBOSNA",
+    "tel" : " 0212 552 45 80"
+},
+{
+    "id" : " 129",
+    "il" : " 34",
+    "ad" : " CONFİDENT SULTAN ÇİFTLİĞİ",
+    "adres" : " CEBECİ MAH. ESKİ EDİRNE ASFALTI NO: 720 SULTANGAZİ",
+    "tel" : " 0212 475 75 72"
+},
+{
+    "id" : " 130",
+    "il" : " 34",
+    "ad" : " CONFİDENT ARNAVUTKÖY",
+    "adres" : " ANADOLU MAH. FATİH CAD. NO:132 ARNAVUTKÖY",
+    "tel" : " 0212 681 02 12"
+},
+{
+    "id" : " 131",
+    "il" : " 2",
+    "ad" : " CONFİDENT ADIYAMAN",
+    "adres" : " ULUCAMİ MAH. GÖLBAŞI CAD. NO:109 MERKEZ",
+    "tel" : " 0416 213 07 49"
+},
+{
+    "id" : " 132",
+    "il" : " 64",
+    "ad" : " CONFİDENT UŞAK",
+    "adres" : " KURTULUŞ MAH. 1. BUCAK SOK. NO:13 MERKEZ",
+    "tel" : " 0276 227 03 13"
+},
+{
+    "id" : " 135",
+    "il" : " 34",
+    "ad" : " HEDEFİM AVM KAVACIK",
+    "adres" : " FATİH SULTAN MEHMET CAD. NO: 15 KAVACIK",
+    "tel" : " 0216 425 91 05"
+},
+{
+    "id" : " 136",
+    "il" : " 34",
+    "ad" : " EV CENTER AVM SANCAKTEPE",
+    "adres" : " İNÖNÜ MAH. ESKİ ANKARA CAD. NO:49 SANCAKTEPE",
+    "tel" : " 0216 620 93 77"
+},
+{
+    "id" : " 137",
+    "il" : " 34",
+    "ad" : " EV CENTER AVM OKMEYDANI",
+    "adres" : " FATİH SULTAN CAD. NO:23 OKMEYDANI",
+    "tel" : " 0212 297 65 10"
+},
+{
+    "id" : " 138",
+    "il" : " 34",
+    "ad" : " EV CENTER SULTANBEYL,",
+    "adres" : " MEHMET AKİF MAH. FATİH BULVARI NO:171 SULTANBEYLİ",
+    "tel" : " 0216 496 69 20"
+},
+{
+    "id" : " 139",
+    "il" : " 34",
+    "ad" : " EV CENTER SEFAKÖY",
+    "adres" : " FEVZİ ÇAKMAK MAH. HALKALI CAD. NO: 185 SEFAKÖY",
+    "tel" : " 0212 624 69 72"
+},
+{
+    "id" : " 140",
+    "il" : " 34",
+    "ad" : " EV CENTER AVM KAYNARCA ",
+    "adres" : " FEVZİ ÇAKMAK MAH. GİRNE CAD. NO: 2 KAYNARCA",
+    "tel" : " 02165 597 04 85"
+},
+{
+    "id" : " 141",
+    "il" : " 34",
+    "ad" : " EV CENTER AVM SANCAKTEPE",
+    "adres" : " MERMEZ MAH. ESKİ ANKARA CAD. NO:10 SANCAKTEPE",
+    "tel" : " 0216 622 12 40"
+},
+{
+    "id" : " 143",
+    "il" : " 34",
+    "ad" : " EVVE AVM AVCILAR",
+    "adres" : " REŞİTPAŞA CAD. NO:74 AVCILAR/İSTANBUL",
+    "tel" : " 02125911965"
+},
+{
+    "id" : " 144",
+    "il" : " 34",
+    "ad" : " EVVE AVM PARSELLER",
+    "adres" : " M. KEMAL PAŞA MAH. İSTİKLAL CAD. NO:53 AVCILAR/İSTANBUL",
+    "tel" : " 02124237585"
+},
+{
+    "id" : " 145",
+    "il" : " 34",
+    "ad" : " EVVE AVM ŞİRİNEVLER",
+    "adres" : " FETİH CAD. NO:23 ŞİRİNEVLER/İSTANBUL",
+    "tel" : " 02126547520"
+},
+{
+    "id" : " 146",
+    "il" : " 34",
+    "ad" : " EVVE AVM BAĞCILAR",
+    "adres" : " BAĞCILAR CAD. NO:203 BAĞCILAR/İSTANBUL",
+    "tel" : " 02124343401"
+},
+{
+    "id" : " 148",
+    "il" : " 34",
+    "ad" : " EVVE AVM KIRAÇ",
+    "adres" : " CUMHURİYET MAH. NO:68 KIRAÇ7İSTANBUL",
+    "tel" : " 02126897008"
+},
+{
+    "id" : " 149",
+    "il" : " 34",
+    "ad" : " EVVE AVM ARNAVUTKÖY",
+    "adres" : " MERKEZ MAH. FATİH CAD. NO:6 ARNAVUTKÖY/İSTANBUL",
+    "tel" : " 02125970022"
+},
+{
+    "id" : " 150",
+    "il" : " 22",
+    "ad" : " EVVE AVM EDİRNE",
+    "adres" : " SARAÇLAR CAD. NO:124 EDİRNE",
+    "tel" : " 02842255527"
+},
+{
+    "id" : " 151",
+    "il" : " 34",
+    "ad" : " EVVE AVM BAYRAMPAŞA",
+    "adres" : " DEMİRKAPI CAD. ORTA MAH. NO:70 BAYRAMPAŞA/İSTANBUL",
+    "tel" : " 02125011086"
+},
+{
+    "id" : " 152",
+    "il" : " 77",
+    "ad" : " EVVE AVM YALOVA",
+    "adres" : " GAZİPAŞA CAD. KARADAĞ HANNO:2 / 3 YALOVA",
+    "tel" : " 02268000058"
+},
+{
+    "id" : " 153",
+    "il" : " 34",
+    "ad" : " EVVE AVM SANCAKTEPE",
+    "adres" : " ATATÜRK MAH. DEMOKRASİ CAD.NO:20 SANCAKTEPE/İSTANBUL",
+    "tel" : " 02166212900"
+},
+{
+    "id" : " 154",
+    "il" : " 46",
+    "ad" : " EVVE AVM K.MARAŞ",
+    "adres" : " İSMETPAŞA MAH. MİLLİ EGEMENLİK CAD. NO:21 MERKEZ/K.MARAŞ",
+    "tel" : " 03442232610"
+},
+{
+    "id" : " 155",
+    "il" : " 34",
+    "ad" : " EV YAPAR AVM IHLAMURKUYU 1",
+    "adres" : " IHLAMURKUYU MAH. ALEMDAĞ CAD. NO:271 ÜMRANİYE/İSTANBUL",
+    "tel" : " 02166114300"
+},
+{
+    "id" : " 156",
+    "il" : " 34",
+    "ad" : " EV YAPAR IHLAMURKUYU 2",
+    "adres" : " IHLAMURKUYU MAH. ALEMDAĞ CAD. NO:285 ÜMRANİYE/İSTANBUL",
+    "tel" : " 02166127023"
+},
+{
+    "id" : " 157",
+    "il" : " 34",
+    "ad" : " EV YAPAR SARIGAZİ",
+    "adres" : " MECLİS MAH. ESKİ ANKARA ASFALTI ÜZERİ NO:46 SARIGAZİ/İSTANBUL",
+    "tel" : " 02166213833"
+},
+{
+    "id" : " 158",
+    "il" : " 44",
+    "ad" : " MEŞEGÜL MEFRUŞAT",
+    "adres" : " ESKİ BELEDİYE ARKASI SARAY SOK. NO:2 MALATYA",
+    "tel" : " 04223249616"
+},
+{
+    "id" : " 159",
+    "il" : " 44",
+    "ad" : " ÇİN ÇEYİZ",
+    "adres" : " İNÖNÜ CAD. NO:62 MALATYA",
+    "tel" : " 04223261164"
+},
+{
+    "id" : " 160",
+    "il" : " 46",
+    "ad" : " KTRC EV TEKSTİLİ",
+    "adres" : " KURTULUŞ MAH. BELEDİYE ÇARŞISI NO:50 KAHRAMANMARAŞ",
+    "tel" : " 03442214114"
+},
+{
+    "id" : " 161",
+    "il" : " 34",
+    "ad" : " HEDEFİM AVM BEYKOZ",
+    "adres" : " GÜMÜŞSUYU CD. BO: 49 BEYKOZ/İSTANBUL",
+    "tel" : " 02163310622"
+},
+{
+    "id" : " 162",
+    "il" : " 34",
+    "ad" : " HEDEFİM AVM PAŞABAHÇE",
+    "adres" : " BARBAROS CAD. NO:9 PAŞABAHÇE/İSTANBUL",
+    "tel" : " 02166803397"
+},
+{
+    "id" : " 163",
+    "il" : " 34",
+    "ad" : " HEDEFİM AVMİ BEYKOZ 2 ",
+    "adres" : " GÜMÜŞSUYU CAD. NO:88 BEYKOZ/İSTANBUL",
+    "tel" : " 02163310622"
+},
+{
+    "id" : " 164",
+    "il" : " 1",
+    "ad" : " MECİTOĞLU TEKSTİL",
+    "adres" : " KURUKÖPRÜ MAH. ÖZLER CAD. NO:12 SEYHAN/ADANA",
+    "tel" : " 03223512098"
+},
+{
+    "id" : " 165",
+    "il" : " 28",
+    "ad" : " DURTEKS TEKSTİL",
+    "adres" : " CEMAL GÜRSEL CAD. KÖŞEM SOK. NO:78 GİRESUN",
+    "tel" : " 04542121179"
+},
+{
+    "id" : " 166",
+    "il" : " 49",
+    "ad" : " CEYLAN AVM",
+    "adres" : " CEYLAN PLAZA KAT:1 NO:119 MUŞ",
+    "tel" : " 04362127982"
+},
+{
+    "id" : " 167",
+    "il" : " 49",
+    "ad" : " ÇAĞIRTAŞ TEXTİL",
+    "adres" : " ÖZEL İDARE İŞHANI NO:6/1 MUŞ",
+    "tel" : " 04362123676"
+},
+{
+    "id" : " 168",
+    "il" : " 41",
+    "ad" : " İSTANBUL AVM İZMİT",
+    "adres" : " İSTİKLAL CAD. NO:105 İZMİT/KOCAELİ",
+    "tel" : " 0262 332 2263"
+},
+{
+    "id" : " 169",
+    "il" : " 67",
+    "ad" : " YENİ DÜNYA AVM",
+    "adres" : " MEYDANBAŞI CAD. NO:85 EREĞLİ/ZONGULDAK",
+    "tel" : " 0372 322 20  84"
+},
+{
+    "id" : " 170",
+    "il" : " 41",
+    "ad" : " YENİDÜNYA AVM İZMİT",
+    "adres" : " MAHMUTPAŞA MAH. ESKİ BAĞDAT CAD. NO:7 BAŞİSKELE/İZMİT",
+    "tel" : " 0262 335 40 29"
+},
+{
+    "id" : " 171",
+    "il" : " 10",
+    "ad" : " YENİDÜNYA AVM BALIKESİR",
+    "adres" : " ANAFARTALAR CAD. 6 EYLÜL MAH. MURAT APT. NO:31/A BALIKESİR",
+    "tel" : " 0266 241 20 57"
+},
+{
+    "id" : " 172",
+    "il" : " 38",
+    "ad" : " YÖN AVM KAYSERİ",
+    "adres" : " CUMHURİYET MAH. MİLLET CAD. NO:25 MELİHGAZİ/KAYSERİ",
+    "tel" : " 0352 231 83 89"
+},
+{
+    "id" : " 173",
+    "il" : " 44",
+    "ad" : " HAZAL ÇEYİZ",
+    "adres" : " YEŞİLYURT CAD. KAMELYA APT. 6 C BLOK NO:99  MALATYA",
+    "tel" : " 0422 221 63 37"
+},
+{
+    "id" : " 174",
+    "il" : " 34",
+    "ad" : " NAREV MALTEPE",
+    "adres" : " FEYZULLAH MAH. BAĞDAT CAD. NO:358 MALTEPE",
+    "tel" : " 0216 459 72 19"
+},
+{
+    "id" : " 175",
+    "il" : " 34",
+    "ad" : " NAREV TUZLA",
+    "adres" : " CAMİ MAH. İSTASYON CAD. NO:42 TUZLA",
+    "tel" : " 0216 447 20 18"
+},
+{
+    "id" : " 176",
+    "il" : " 41",
+    "ad" : " EV YAPAR ÇAYIROVA",
+    "adres" : " YENİ MAH. FATİH CAD. NO: 132 ÇAYIROVA/GEBZE",
+    "tel" : " 0262 743 04 50"
+},
+{
+    "id" : " 177",
+    "il" : " 44",
+    "ad" : " NAME ÇEYİZ",
+    "adres" : " BÜYÜK MUSTAFA PAŞA MAH. DİVAN EFENDİ SOK. ŞURA APT. NO:34 MALATYA",
+    "tel" : " "
+},
+{
+    "id" : " 178",
+    "il" : " 12",
+    "ad" : " EVCE PERDE",
+    "adres" : " GENÇ CAD. YEŞİM SOK. NO:4 BİNGÖL",
+    "tel" : " 0426 213 3036"
+},
+{
+    "id" : " 179",
+    "il" : " 13",
+    "ad" : " MEVSİM TERZİHANESİ",
+    "adres" : " KAZIMDİRİK CAD. ESKİ BELEDİYE KARŞISI BİTLİS",
+    "tel" : " 0434 226 9766"
+},
+{
+    "id" : " 180",
+    "il" : " 12",
+    "ad" : " ECEM ÇEYİZ",
+    "adres" : " YENİŞEHİR MAH. GENÇ CAD. HALK PASAJI ZEMİN KATNO:1 BİNGÖL",
+    "tel" : " "
+},
+{
+    "id" : " 181",
+    "il" : " 55",
+    "ad" : " EVVE AVM SAMSUN",
+    "adres" : " KALEM MAH. SALİH BEY CAD. NO:1 SAMSUN",
+    "tel" : " "
+},
+{
+    "id" : " 182",
+    "il" : " 44",
+    "ad" : " KIRÇUVAL MEFRUŞAT",
+    "adres" : " HÜKÜMET MEYDANI CUMHURİYET CAD. NO: 4 MALATYA",
+    "tel" : " 0422 323 99 91"
+},
+{
+    "id" : " 183",
+    "il" : " 44",
+    "ad" : " İREM MEFRUŞAT",
+    "adres" : " HÜKÜMET YANIATMALI SOK. NO: 12 MALATYA",
+    "tel" : " 0422 326 57 95"
+},
+{
+    "id" : " 184",
+    "il" : " 34",
+    "ad" : " EVYAPAR ÜMRANİYE",
+    "adres" : " ALEMDAĞ CAD. NO: 166 SONDURAK ÜMRANİYE / İSTANBUL",
+    "tel" : " 0216 505 09 70"
+},
+{
+    "id" : " 185",
+    "il" : " 19",
+    "ad" : " İSTANBUL AVM ÇORUM",
+    "adres" : " GÜLABİBEY MAH. KUBBELİ CAD. NO: 19 ÇORUM",
+    "tel" : " 0530 555 51 61"
+},
+{
+    "id" : " 186",
+    "il" : " 34",
+    "ad" : " İNCİ AVM",
+    "adres" : " FERİKÖY AVUKAT CAD. NO: 31 ŞİŞLİ/İSTANBUL",
+    "tel" : " 0212 232 61 20"
+},
+{
+    "id" : " 187",
+    "il" : " 16",
+    "ad" : " ŞIMGA ERHAN BÜK",
+    "adres" : " İPEKÇİLİK CAD. NO:21 YILDIRIM/BURSA",
+    "tel" : " 0224 327 67 86"
+},
+{
+    "id" : " 188",
+    "il" : " 58",
+    "ad" : " STM SİVAS TİC. MRK.",
+    "adres" : " ÇARŞIBAŞI MAH. ZİYA BEY SOK. NO:8 SİVAS",
+    "tel" : " 0346 221 16 66"
+},
+{
+    "id" : " 189",
+    "il" : " 20",
+    "ad" : " ECEM ZÜCCACİYE",
+    "adres" : " SIRAKAPILAR MAH. YEŞİLKÖY CAD. NO:11/A DENİZLİ",
+    "tel" : " 0258 264 60 93"
+},
+{
+    "id" : " 190",
+    "il" : " 22",
+    "ad" : " VAROL KONFEKSİYON",
+    "adres" : " KUNDURACILAR CAD. NO:83 KEŞAN/EDİRNE",
+    "tel" : " 0284 714 39 72"
+},
+{
+    "id" : " 191",
+    "il" : " 16",
+    "ad" : " KARBEYAZ EV ZÜCCACİYE",
+    "adres" : " CUMHURİYET MAH. GAZİ CAD. FIRAT SOK. NO:16-17-18-19 NİLÜFER / BURSA",
+    "tel" : " 0224 452 51 90"
+},
+{
+    "id" : " 192",
+    "il" : " 52",
+    "ad" : " GÜRSOYLU İÇ VE DIŞ TİCARET",
+    "adres" : " KALEDERE MAH. KAZANCILAR CAD. NO: 52 / A ÜNYE / ORDU",
+    "tel" : " 0452 323 11 12"
+},
+{
+    "id" : " 194",
+    "il" : " 68",
+    "ad" : " ÖZDAĞDELEN ÇEYİZ",
+    "adres" : " H. HASANLI MAH. KALEALTI CAD. YILDIZ APT. NO:25 / B AKSARAY",
+    "tel" : " 0382 214 30 14"
+},
+{
+    "id" : " 195",
+    "il" : " 42",
+    "ad" : " ANADOLU MOBİLYA",
+    "adres" : " NASRETTİN CAD. NO: 53 AKŞEHİR / KONYA",
+    "tel" : " 0332 813 27 00"
+},
+{
+    "id" : " 196",
+    "il" : " 34",
+    "ad" : " KERVANCIOĞLU TEKSTİL",
+    "adres" : " HACI KÜÇÜK SOK. KÖŞE HAN NO:38 FATİH / İSTANBUL",
+    "tel" : " 0554 542 53 38"
+},
+{
+    "id" : " 197",
+    "il" : " 34",
+    "ad" : " KERVANCIOĞLU TEKSTİL",
+    "adres" : " HACI KÜÇÜK SOK. KÖŞE HAN NO:38 FATİH / İSTANBUL",
+    "tel" : " 0554 542 53 38"
+},
+{
+    "id" : " 198",
+    "il" : " 42",
+    "ad" : " EDA ÇEYİZ",
+    "adres" : " ŞEYF ŞAMİL MAH. DOKTOR HALİL ÜRÜN CAD. KIZILKAYA İŞ MERKEZİ KAT: 1 NO:112 KONYA",
+    "tel" : " 0332 265 39 12"
+},
+{
+    "id" : " 199",
+    "il" : " 74",
+    "ad" : " KELEŞLER PERDE",
+    "adres" : " LÜTFİYE CAD. NO: 42 BARTIN",
+    "tel" : " 0378 228 61 06"
+},
+{
+    "id" : " 200",
+    "il" : " 67",
+    "ad" : " UMUT PAZARLAMA",
+    "adres" : " MEŞRUTİYET MAH. KADIRGA CAD. NO:4 ZONGULDAK",
+    "tel" : " 0372 252 47 01"
+},
+{
+    "id" : " 202",
+    "il" : " 61",
+    "ad" : " HAKSAL EV GEREÇLERİ",
+    "adres" : " PAZARKAPI MAH. ŞEHİT HALİT KARAGÖZ SOK. NO:8 TRABZON",
+    "tel" : " 0462 321 00 04"
+},
+{
+    "id" : " 203",
+    "il" : " 16",
+    "ad" : " YUNUS EMRE AVM",
+    "adres" : " YUNUS EMRE MAH. VATAN CAD. NO:270 YILDIRIM / BURSA",
+    "tel" : " 0224 351 03 55"
+},
+{
+    "id" : " 204",
+    "il" : " 34",
+    "ad" : " FATİH ÇEYİZ",
+    "adres" : " FEVZİ PAŞA CAD. NO: 193 FATİH İSTANBUL",
+    "tel" : " 0212 534 77 44"
+},
+{
+    "id" : " 205",
+    "il" : " 34",
+    "ad" : " SEÇKİN HALI",
+    "adres" : " FERİT SELİM PAŞA CAD. NO: 61 YAYLA B.EVLER / İSTANBUL",
+    "tel" : " 0212 5653 77 51"
+},
+{
+    "id" : " 206",
+    "il" : " 34",
+    "ad" : " EGE MOBİLYA",
+    "adres" : " DOĞU ARASLI CAD. NO: 156 ESENYURT / İSTANBUL",
+    "tel" : " "
+},
+{
+    "id" : " 207",
+    "il" : " 34",
+    "ad" : " KADİR TEKSTİL",
+    "adres" : " AHMET KUTSİ TECER CAD. KINALI TEPE SOK NO: 41/2 MERTER İSTANBUL",
+    "tel" : " 0212 555 11 42"
+},
+{
+    "id" : " 208",
+    "il" : " 34",
+    "ad" : " ATİLLA TEKSTİL",
+    "adres" : " KATİP KASIM MAH. MERMERCİLER CAD. NO:5 YENİKAPI / İSTANBUL",
+    "tel" : " 0212 516 89 15"
+},
+{
+    "id" : " 209",
+    "il" : " 41",
+    "ad" : " KAHRAMAN ÇEYİZ",
+    "adres" : " HACIHALİL MAH. İSMETPAŞA CAD. NO:28/A GEBZE / KOCAELİ",
+    "tel" : " 0262 643 12 63"
+},
+{
+    "id" : " 210",
+    "il" : " 34",
+    "ad" : " METİN AVM",
+    "adres" : " FEVZİ ÇAKMAK MAH. FEVZİ ÇAKMAK CAD. OĞUZHAN SOK. NO:2 ÜST KAYNARCA PENDİK / İSTANBUL",
+    "tel" : " 0216 396 30 79"
+},
+{
+    "id" : " 211",
+    "il" : " 34",
+    "ad" : " MODA EV AVM",
+    "adres" : " BARBAROZ MAH. MAHMUTBEY CAD. NO: 86 BAĞCILAR / İSTANBUL",
+    "tel" : " 0212 474 3"
+},
+{
+    "id" : " 212",
+    "il" : " 55",
+    "ad" : " YAMANLAR HALI",
+    "adres" : " ALAÇAM CAD. NO: 39 BAFRA / SAMSUN",
+    "tel" : " 0362 543 84 40"
+},
+{
+    "id" : " 213",
+    "il" : " 59",
+    "ad" : " GÜZEL NAKIŞ",
+    "adres" : " REŞADİYE MAH. MANDIRACI CAD. NO:46/ B ÇORLU / TEKİRDAĞ",
+    "tel" : " "
+},
+{
+    "id" : " 214",
+    "il" : " 59",
+    "ad" : " KONGUR MEFRUŞAT",
+    "adres" : " BELEDİYE HAL BİNALARI CUMHURİYET CAD. NO: 4 BABAESKİ / TEKŞRDAĞ",
+    "tel" : " "
+},
+{
+    "id" : " 215",
+    "il" : " 59",
+    "ad" : " KÖROĞLU HALICILIK",
+    "adres" : " HÜRRİYET CAD. NO: 60 MALKARA / TEKİRDAĞ",
+    "tel" : " 0282 427 01 13"
+},
+{
+    "id" : " 216",
+    "il" : " 22",
+    "ad" : " TAN ZÜCCACİYE",
+    "adres" : " OSMANİYE CAD. NO: 73 EDİRNE",
+    "tel" : " 0284 213 15 04"
+},
+{
+    "id" : " 217",
+    "il" : " 59",
+    "ad" : " HUZUR MANİFATURA",
+    "adres" : " EROL OKTAY CAD. NO: 17/ A MURATLI / TEKİRDAĞ",
+    "tel" : " 0282 361 38 55"
+},
+{
+    "id" : " 218",
+    "il" : " 59",
+    "ad" : " GÜNER ÇEYİZ",
+    "adres" : " HÜKÜMET CAD. KÖPRÜBAŞI MAH. NO: 173 / B BLOK TEKİRDAĞ",
+    "tel" : " "
+},
+{
+    "id" : " 219",
+    "il" : " 77",
+    "ad" : " YAPICIUĞLU ÇEYİZ",
+    "adres" : " SEFABEY CAD. NO: 16 / A YALOVA",
+    "tel" : " 0226 812 21 82"
+},
+{
+    "id" : " 220",
+    "il" : " 16",
+    "ad" : " İTALYAN ÇEYİZ",
+    "adres" : " CAMİKEBİR MAH. MUSTAFA KEMEL PAŞA CAD. NO: 53 ORHANGAZİ / BURSA",
+    "tel" : " 0224 573 96 90"
+},
+{
+    "id" : " 221",
+    "il" : " 16",
+    "ad" : " İTALYAN ÇEYİZ",
+    "adres" : " CAMİKEBİR MAH. MUSTAFA KEMEL PAŞA CAD. NO: 53 ORHANGAZİ / BURSA",
+    "tel" : " 0224 573 96 90"
+},
+{
+    "id" : " 222",
+    "il" : " 16",
+    "ad" : " HARUN EV CONSEPT",
+    "adres" : " HÜDAVENDİGAR MAH. 10. MUTLU SOK. NO: 2 /B OSMANGAZİ / BURSA",
+    "tel" : " 0536 252 27 01"
+},
+{
+    "id" : " 223",
+    "il" : " 35",
+    "ad" : " AKKUŞ EV GEREÇLERİ",
+    "adres" : " 177. SOK. NO: 96 Z-3 ŞAMLI PASAJI HATAY / İZMİR",
+    "tel" : " 0232 243 32 25"
+},
+{
+    "id" : " 224",
+    "il" : " 26",
+    "ad" : " AVRASYA AVM",
+    "adres" : " M. KEMAL ATATÜRK CAD. NO: 58 ESKİŞEHİR",
+    "tel" : " 0222 234 26 44"
+},
+{
+    "id" : " 225",
+    "il" : " 26",
+    "ad" : " SERAL ÇEYİZ",
+    "adres" : " DELİKLİ TAŞ MAH. SAYTEKİN CAD. NO: 22 / A ESKİŞEHİR",
+    "tel" : " 0222 230 30 60"
+},
+{
+    "id" : " 226",
+    "il" : " 49",
+    "ad" : " GALERİ HAS",
+    "adres" : " İZEL İDARE İŞ HANI ZEMİN KAT NO: 2 MUŞ",
+    "tel" : " "
+},
+{
+    "id" : " 227",
+    "il" : " 54",
+    "ad" : " BALIKLI SÜMER ",
+    "adres" : " UZUN ÇARŞI NO: 26 ADAPAZARI / SAKARYA",
+    "tel" : " 0264 278 61 09"
+},
+{
+    "id" : " 228",
+    "il" : " 34",
+    "ad" : " ESSEN HOME",
+    "adres" : " FATİH MAH. BAHÇEOĞLU CAD. GARDEN CITY NO: G1 / 64 ESENYURT / İSTANBUL",
+    "tel" : " 0212 699 40 61"
+},
+{
+    "id" : " 229",
+    "il" : " 34",
+    "ad" : " ÖZDEDELER TEKSTİL",
+    "adres" : " RAHMANLAR ATALAR CAD. NO: 27 / 5 KARTAL İSTANBUL",
+    "tel" : " 0216 374 39 34 "
+},
+{
+    "id" : " 230",
+    "il" : " 21",
+    "ad" : " YIL SA TEKSTİL",
+    "adres" : " GAZİ CAD. ÖZDAL İŞ HANI ZEMİN KAT NO:17 - 18 DİYARBAKIR",
+    "tel" : " 0412 228 03 63  "
+},
+{
+    "id" : " 231",
+    "il" : " 72",
+    "ad" : " MESKEN TEKSTİL",
+    "adres" : " SSK CAD. NO: 80 / C BATMAN",
+    "tel" : " 0488 214 69 04 "
+},
+{
+    "id" : " 233",
+    "il" : " 6",
+    "ad" : " ALİ BABACAN TEKSTİL",
+    "adres" : " ŞENKAL SOK. NO: 1 SİTELER ANKARA",
+    "tel" : " 0312 353 31 00"
+},
+{
+    "id" : " 236",
+    "il" : " 6",
+    "ad" : " ÇOPUROĞLU TEKSTİL",
+    "adres" : " ÇIKRIKÇILAR YOKUŞU NO: 7/ A ULUS ANKARA",
+    "tel" : " 0312 311 11 47"
+},
+{
+    "id" : " 237",
+    "il" : " 33",
+    "ad" : " SANDAL ÇEYİZ",
+    "adres" : " MESUDİYE MAH. KUVAYİ MİLLİYE CAD. NO: 118 /B MERSİN",
+    "tel" : " 0530 342 36 33"
+},
+{
+    "id" : " 238",
+    "il" : " 1",
+    "ad" : " ELENA TEKSTİL",
+    "adres" : " KURUKÖPRÜ MAH. 33018. SOK. NO: 15 / 17 SEYHAN /  ADANA",
+    "tel" : " 0322 352 42 41 "
+},
+{
+    "id" : " 239",
+    "il" : " 6",
+    "ad" : " AKTANLAR TEKSTİL",
+    "adres" : " ETİ CAD. NO: 7 POLATLI  / ANKARA",
+    "tel" : " 0312 622 72 62 "
+},
+{
+    "id" : " 240",
+    "il" : " 20",
+    "ad" : " SAP INTERNATIONAL",
+    "adres" : " ÇAMLAR ALTI MAH. 6029. SOK. NO:5  DENİZLİ",
+    "tel" : " 0258 264 52 05"
+},
+{
+    "id" : " 241",
+    "il" : " 9",
+    "ad" : " ZOROĞLU TEKSTİL",
+    "adres" : " RAMAZAN PAŞA MAH. UMUT VE SEVGİ YOLU NO: 15/ A AYDIN",
+    "tel" : " 0256 215 06 69"
+},
+{
+    "id" : " 242",
+    "il" : " 55",
+    "ad" : " EFENDİOĞLU MOBİLYA",
+    "adres" : " KİRAZLIK MAH. ATATÜRK BLV. NO:161 BÖLGE TRAFİK YANI SAMSUN",
+    "tel" : " 0362 266 40 87"
+},
+{
+    "id" : " 243",
+    "il" : " 34",
+    "ad" : " NURSER AVM",
+    "adres" : " İZZETPAŞA MAH. FIRIN SOK. NO:8 ŞİŞLİ/İSTANBUL",
+    "tel" : " 0212 296 58 00"
+},
+{
+    "id" : " 244",
+    "il" : " 34",
+    "ad" : " NURSER AVM",
+    "adres" : " AKŞEMSETTİN MAH. CENGİZ TOPEL CAD. NO: 45 YEŞİLPINAR/İSTANBUL",
+    "tel" : " 0212 427 35 58"
+},
+{
+    "id" : " 245",
+    "il" : " 34",
+    "ad" : " NURSER AVM",
+    "adres" : " GÜLBAHLAR MAH. ERTUĞRUL KABATAŞ CAD. NO:26 MECİDİYEKÖY İSTANBUL",
+    "tel" : " 0212 213 55 00"
+},
+{
+    "id" : " 246",
+    "il" : " 16",
+    "ad" : " ŞEFİK HOME STORE",
+    "adres" : " KOĞUKÇINAR MAH. ÇINAR CAD. NO:67 BURSA",
+    "tel" : " 0224 252 0865"
+},
+{
+    "id" : " 247",
+    "il" : " 34",
+    "ad" : " MS EV TEKSTİLİ",
+    "adres" : " SOĞANLI MAH. MİMAR SİNAN CAD. NO:72/77 BAHÇELİEVLER/İSTANBUL",
+    "tel" : " "
+},
+{
+    "id" : " 248",
+    "il" : " 16",
+    "ad" : " GENCO AVM",
+    "adres" : " BAĞLARBAŞI MAH. M. GENÇOĞLU CAD. NO:38 BURSA",
+    "tel" : " 0224 245 06 21"
+},
+{
+    "id" : " 250",
+    "il" : " 16",
+    "ad" : " KONAKLI İKİZLER YEŞİLYAYLA",
+    "adres" : " EĞİTİM MAH. TEYYARECİ MEHMET ALİ CAD. NO:297 YILDIRIM BURSA",
+    "tel" : " 0224 363 40 58"
+},
+{
+    "id" : " 251",
+    "il" : " 16",
+    "ad" : " KONAKLI İKİZLER TELEFERİK",
+    "adres" : " ZÜMRÜTEVLER MAH. ÇİÇEK CAD. NO: 59 YILDIRIM BURSA",
+    "tel" : " 0224 326 01 58"
+},
+{
+    "id" : " 252",
+    "il" : " 34",
+    "ad" : " HEPSİ LİFE MALTEPE",
+    "adres" : " BAĞLARBAŞI MAH. ATATÜRK CAD. NO:64/C MALTEPE İSTANBUL",
+    "tel" : " 0216 352 40 32"
+},
+{
+    "id" : " 253",
+    "il" : " 34",
+    "ad" : " HEPSİ LİFE BOSTANCI",
+    "adres" : " ALTINTEPE MAH. BAĞDAT CAD. NO: 40/B BOSTANCI İSTANBUL",
+    "tel" : " 0216 366 40 42"
+},
+{
+    "id" : " 254",
+    "il" : " 34",
+    "ad" : " HEPSİ LİFE ÜMRANİYE",
+    "adres" : " ATATÜRK MAH. ALEMDAĞ CAD. ÇİFTLİK SOK. NO:17/C ÜMRANİYE İSTANBUL",
+    "tel" : " 0216 481 23 64"
+},
+{
+    "id" : " 255",
+    "il" : " 34",
+    "ad" : " HEPSİ LİFE ÜSKÜDAR",
+    "adres" : " MİMARSİNAN MAH. SELMANI PAK. CAD. NO:52/C ÜSKÜDAR İSTANBUL",
+    "tel" : " 0216 334 30 33"
+},
+{
+    "id" : " 256",
+    "il" : " 34",
+    "ad" : " HEPSİ LİFE GÖZTEPE",
+    "adres" : " GÖZTEPE MAH. FAHRETTİN KERİM GÖKAY CAD. NO: 188/B GÖZTEPE KADIKÖY İSTANBUL",
+    "tel" : " 0216 565 14 49"
+},
+{
+    "id" : " 257",
+    "il" : " 10",
+    "ad" : " EVKUR BANDIRMA",
+    "adres" : " GÜNAYDIN MH. KAŞİF ACAR CD. NO:65 BANDIRMA/BALIKESİR",
+    "tel" : " "
+},
+{
+    "id" : " 258",
+    "il" : " 60",
+    "ad" : " ÖZŞENLER HALI EV TEKS. ",
+    "adres" : " CAHİT KULEBİ CAD NO: 68 NİKSAR / TOKAT",
+    "tel" : " 0356 527 20 20 "
+},
+{
+    "id" : " 259",
+    "il" : " 16",
+    "ad" : " GÜNEBAKAN TİCARET",
+    "adres" : " PANAYIR MAH . DERMAN CAD NO: 102 OSMANGAZİ / BURSA",
+    "tel" : " 0532 163 12 04"
+},
+{
+    "id" : " 260",
+    "il" : " 16",
+    "ad" : " KADER KRİSTAL AYDINLATMA",
+    "adres" : " CUMHURIYET CAD NO: 115 / 20 BURSA",
+    "tel" : " 0224 221 42 34"
+},
+{
+    "id" : " 261",
+    "il" : " 42",
+    "ad" : " YUSUF ÇEYİZ PERDE ZÜCCACİYE",
+    "adres" : " SARAY ÇARŞISI NO: 16 KONYA",
+    "tel" : " 0332 350 44 98"
+},
+{
+    "id" : " 262",
+    "il" : " 35",
+    "ad" : " ULU TİCARET",
+    "adres" : " İNÖNÜ CAD NO:  765/A DENİZMEN DURAĞI   İZMİR",
+    "tel" : " 0232 224 31 15"
+},
+{
+    "id" : " 263",
+    "il" : " 16",
+    "ad" : " ADA ŞIMGA",
+    "adres" : " BARIŞ MAH NİLÜFER HATUN CAD NO: 53/A NİLÜFER BURSA",
+    "tel" : " 0532 490 66 18"
+},
+{
+    "id" : " 264",
+    "il" : " 16",
+    "ad" : " ŞIMGA ÇARŞAMBA",
+    "adres" : " İNTİZAM MAH İLKBAHAR CAD NO: 18/B OSMANGAZİ BURSA",
+    "tel" : " 0532 395 17 56"
+},
+{
+    "id" : " 265",
+    "il" : " 33",
+    "ad" : " ERCİYES ZÜCCACİYE",
+    "adres" : " YEŞİLYURT MAH 23 NİSAN CAD NO: 26  ANAMUR / MERSİN ",
+    "tel" : " 0324 816 44 58"
+},
+{
+    "id" : " 266",
+    "il" : " 22",
+    "ad" : " SEZER TEKSTİL",
+    "adres" : " MERCAN CAD NO / 7 KEŞAN EDİRNE",
+    "tel" : " 0533 513 47 59"
+},
+{
+    "id" : " 267",
+    "il" : " 59",
+    "ad" : " SALMANLI KON.MAĞ.ZÜC MOB.TEKS ",
+    "adres" : " CAMİATİK MAH ŞEHİTLİK CAD NO: 35 / A MALKARA / TEKİRDAĞ",
+    "tel" : " 0284 427 55 53"
+},
+{
+    "id" : " 268",
+    "il" : " 59",
+    "ad" : " SERDAR ZÜCCACİYE",
+    "adres" : " HÜKÜMET CAD NO: 95 TEKİRDAĞ",
+    "tel" : " 0282 263 11 44"
+},
+{
+    "id" : " 269",
+    "il" : " 7",
+    "ad" : " YÜKSELİŞ PAZARI",
+    "adres" : " SARISU MAH AKDENİZ BLV.NO: 310 ANTALYA",
+    "tel" : " 0242 259 11 66 "
+},
+{
+    "id" : " 270",
+    "il" : " 45",
+    "ad" : " ŞAHAN ZÜCCACİYE",
+    "adres" : " TAHSİN BAYKAL CAD NO: 29  SOMA / MANİSA",
+    "tel" : " 0533 639 41 41"
+},
+{
+    "id" : " 271",
+    "il" : " 17",
+    "ad" : " ŞİRİN HALI MOBİLYA",
+    "adres" : " BARBAROS MAH ATATÜRK CAD NO: 122 ÇANAKKALE / MERKEZ",
+    "tel" : " 0286 212 36 35"
+},
+{
+    "id" : " 272",
+    "il" : " 46",
+    "ad" : " GÜNEY TEKS TİC",
+    "adres" : " SAATÇİLER PASAJI NO: 40 K.MARAŞ MERKEZ",
+    "tel" : " "
+},
+{
+    "id" : " 273",
+    "il" : " 80",
+    "ad" : " IŞILTI ÇEYİZ",
+    "adres" : " HACI OSMANLI MAH DOKTOR SADIK AHMET CAD NO: 88 OSMANİYE MERKEZ",
+    "tel" : " 0328 813 25 30"
+},
+{
+    "id" : " 274",
+    "il" : " 6",
+    "ad" : " NURSA HOME",
+    "adres" : " ESKİŞEHİR YOLU 14. KM GEZER PLAZA NO: 346/ K  ÜMİTKÖY / ANKARA",
+    "tel" : " 0231 235 66 39"
+},
+{
+    "id" : " 275",
+    "il" : " 34",
+    "ad" : " GÜVEN ÇEYİZ {TUBA ÇEYİZ}",
+    "adres" : " AKŞEMSETTİN MAH HALICILAR CAD NO: 57  FATİH / İST",
+    "tel" : " 0532 491 36 67"
+},
+{
+    "id" : " 276",
+    "il" : " 34",
+    "ad" : " GÖRMEZ ALIŞVERİŞ MERKEZLERİ",
+    "adres" : " MURAT MAH KISMET SOK NO: 10 BAYRAMPAŞA  / İSTANBUL",
+    "tel" : " 0212 613 19 76"
+},
+{
+    "id" : " 277",
+    "il" : " 34",
+    "ad" : " KADIOĞLU HALI EV TEKST",
+    "adres" : " KİRAZLI MAH MAHYMUTBEY CAD NO: 152 BAGCILAR / İSTANBUL",
+    "tel" : " 0212 657 40 44"
+},
+{
+    "id" : " 278",
+    "il" : " 22",
+    "ad" : " BEREKET TEKSTİL",
+    "adres" : " SARICA MAH KIYIK CAD NO: 18 EDİRNE 0284  225 08 75",
+    "tel" : " "
+},
+{
+    "id" : " 279",
+    "il" : " 34",
+    "ad" : " EFT İTHALAT",
+    "adres" : " CEVİZLİ MAH 30 AGUSTOS CAD NO: 9 MALTEPE / İST",
+    "tel" : " 0216 457 41 00"
+},
+{
+    "id" : " 280",
+    "il" : " 16",
+    "ad" : " KELEBEK EV TEKSTİLİ",
+    "adres" : " KONAK MAH. BEŞEVLER CAD NİLÜFER / BURSA",
+    "tel" : " 0533 720 55 00"
+},
+{
+    "id" : " 282",
+    "il" : " 6",
+    "ad" : " ALIŞVERİŞ HOME",
+    "adres" : " BİŞKEK CD NO 72 / 8 EMEK / ANKARA",
+    "tel" : " "
+},
+{
+    "id" : " 283",
+    "il" : " 58",
+    "ad" : " ÖZKAYA TEKSTİL",
+    "adres" : " ESKİ KALE MAH 9. SK ÖZKAYA PLAZA İŞ MERKEZİ SİVAS ",
+    "tel" : " 0346 224 56 50"
+},
+{
+    "id" : " 284",
+    "il" : " #ANY",
+    "ad" : " ARUF TEKSTİL",
+    "adres" : " ÇAĞLAYAN MAH.NO: 99/2 ANTALYA",
+    "tel" : " 0505 589 95 35"
+},
+{
+    "id" : " 285",
+    "il" : " 34",
+    "ad" : " HEPSİ LİFE PENDİK",
+    "adres" : " BATI MAH. İSMETPAŞA CAD. NO:  30/B",
+    "tel" : " 0216 354 2765"
+},
+{
+    "id" : " 286",
+    "il" : " 16",
+    "ad" : " KONAKLI İKİLER ETİBANK",
+    "adres" : " ÇİFTEHAVUZLAR MAH. ETİBANK CAD. NO: 139 OSMANGAZİ BURSA",
+    "tel" : " 0224 271 50 77"
+},
+{
+    "id" : " 287",
+    "il" : " 70",
+    "ad" : " BASMACILAR EV TEKS.",
+    "adres" : " İSTASYON CAD. NO: 4 KARAMAN",
+    "tel" : " 0338 214 38 98"
+},
+{
+    "id" : " 288",
+    "il" : " 26",
+    "ad" : " ABACI HALI",
+    "adres" : " HAMAMYOLU CAD. NO: 72 ESKİŞEHİR",
+    "tel" : " 0222 220 20 20"
+},
+{
+    "id" : " 289",
+    "il" : " 16",
+    "ad" : " ŞENGİL ÇEYİZ ",
+    "adres" : " HÜRRİYET MAH. OKUL SOK. NO: 9 OSMANGAZİ BURSA",
+    "tel" : " 0534 945 81 35"
+},
+{
+    "id" : " 290",
+    "il" : " 44",
+    "ad" : " KARDEŞLER TOPTAN",
+    "adres" : " ÇÖŞNÜK MAH. ÇEVREYOLU DOĞUKENT SİTESİ C BLOK NO: 5 - 6 MALATYA",
+    "tel" : " 0422 311 27 44"
+},
+{
+    "id" : " 291",
+    "il" : " 16",
+    "ad" : " TUTUMLU ÇEYİZ",
+    "adres" : " HAMİDİYE MAH. HASTANE CAD. NO: 29 İNEGÖL BURSA",
+    "tel" : " 0532 553 32 86"
+},
+{
+    "id" : " 292",
+    "il" : " 9",
+    "ad" : " NAREV AVM",
+    "adres" : " RAMAZANPAŞA MAH. UMUT SEVGİ YOLU NO: 39 YAĞCILARİÇİ / AYDIN",
+    "tel" : " "
+},
+{
+    "id" : " 293",
+    "il" : " 44",
+    "ad" : " EVKUR",
+    "adres" : " İNÖNÜ CAD NO  :  39 MALATYA",
+    "tel" : " "
+},
+{
+    "id" : " 296",
+    "il" : " 35",
+    "ad" : " EVKUR ÇİĞLİ",
+    "adres" : " B.ÇİĞLİ MAH. ANADOLU CD. NO:  792 İZMİR",
+    "tel" : " "
+},
+{
+    "id" : " 299",
+    "il" : " 2",
+    "ad" : " EVKUR",
+    "adres" : " YENİPINAR MAH. ATATÜRK CAD. NO: 34 ADIYAMAN",
+    "tel" : " "
+},
+{
+    "id" : " 300",
+    "il" : " 28",
+    "ad" : " YÖN AVM",
+    "adres" : " ŞEF KERAMETTİN MAH. GAZİ CAD. NO:24 GİRASUN ",
+    "tel" : " 0454 244 00 13"
+},
+{
+    "id" : " 301",
+    "il" : " 38",
+    "ad" : " YÖN AVM KAYSERİ 2",
+    "adres" : " İNÖNÜ BULV. NO:26/A MELİKGAZİ KAYSERİ",
+    "tel" : " 0352 320 70 04"
+},
+{
+    "id" : " 302",
+    "il" : " 34",
+    "ad" : " GÖRMEZ AVM BAYRAMPAŞA",
+    "adres" : " MURAT MAH. KAMİL CAD. NO: 14 BAYRAMPAŞA ",
+    "tel" : " 0212 613 19 76"
+},
+{
+    "id" : " 303",
+    "il" : " 34",
+    "ad" : " GÖRMEZ AVM BAYRAMPAŞA",
+    "adres" : " MURAT MAH. KAMİL CAD. NO: 14 BAYRAMPAŞA ",
+    "tel" : " 0212 613 19 76"
+},
+{
+    "id" : " 304",
+    "il" : " 52",
+    "ad" : " EVKUR ORDU",
+    "adres" : " ŞARKİYE MAH.SÜLEYMAN FELEK CAD.NO:101 MERKEZ /ORDU",
+    "tel" : " "
+},
+{
+    "id" : " 305",
+    "il" : " 52",
+    "ad" : " EVKUR FATSA",
+    "adres" : " DOMLU PINAR MAH.REŞADİYE CAD NO:80 FATSA ORDU",
+    "tel" : " "
+},
+{
+    "id" : " 306",
+    "il" : " 80",
+    "ad" : " EVKUR OSMANİYE",
+    "adres" : " ALİBEYLİ MAH.PALALI SÜLEYMAN CAD.NO:5 OSMANİYE",
+    "tel" : " "
+},
+{
+    "id" : " 307",
+    "il" : " 53",
+    "ad" : " EVKUR RİZE",
+    "adres" : " ÇARŞI MAH.KAZIM KARA BEKIR CAD. NO:12 RİZE",
+    "tel" : " "
+},
+{
+    "id" : " 308",
+    "il" : " 52",
+    "ad" : " EVKUR ÜNYE",
+    "adres" : " KALEDERE MAH.HÜKÜMET CAD.NO:23 ÜNYE/ORDU",
+    "tel" : " "
+},
+{
+    "id" : " 309",
+    "il" : " 35",
+    "ad" : " EVKUR TORBALI",
+    "adres" : " ERTUGRUL MAH.KAZIM DİRİK CAD.MEHMET ÇİNEL APT.NO:52 TORBALI/İZMİR",
+    "tel" : " "
+},
+{
+    "id" : " 311",
+    "il" : " 61",
+    "ad" : " EVKUR TRABZON 3",
+    "adres" : " MERKEZ MAH.DEVLET SAHIL YOLU UZERI RIZE CAD.NO259 YALINCAK/TRABZON",
+    "tel" : " 0462 344 01 57-58"
+},
+{
+    "id" : " 312",
+    "il" : " 55",
+    "ad" : " EVKUR SAMSUN",
+    "adres" : " ULUGAZİ MAH.İSTİKLAL CAD.NO:57/B İLKADIM / SAMSUN",
+    "tel" : " "
+},
+{
+    "id" : " 313",
+    "il" : " 9",
+    "ad" : " EVKUR SÖKE",
+    "adres" : " İSTASYON MAH YENİ CAMİ YANI NO.62 SOKE/AYDIN",
+    "tel" : " "
+},
+{
+    "id" : " 314",
+    "il" : " #ANY",
+    "ad" : " EVKUR NEVŞHİR",
+    "adres" : " KAPACU BAŞI MAH.AKSARAY CAD.NO:2-6 NEVŞEHİR",
+    "tel" : " "
+},
+{
+    "id" : " 316",
+    "il" : " 31",
+    "ad" : " EVKUR HATAY",
+    "adres" : " ŞEHİTPAMİR CAD.NO:31 İSKENDERUN/HATAY",
+    "tel" : " "
+},
+{
+    "id" : " 317",
+    "il" : " 35",
+    "ad" : " EVKUR BOZKAYA",
+    "adres" : " BOZYAKA MAH.ESKİ İZMİR CAD.NO:173/A BOZKAYA/KARABAĞLAR/İZMİR",
+    "tel" : " "
+},
+{
+    "id" : " 318",
+    "il" : " 57",
+    "ad" : " YALÇINLAR TİCARET",
+    "adres" : " İNCEDAYI MAH METOROLOJİ SOKJ NO: 2/ 3 SİNOP",
+    "tel" : " 0541 865 92 25"
+},
+{
+    "id" : " 319",
+    "il" : " 57",
+    "ad" : " USTALAR EV TEKS.",
+    "adres" : " MERKEZ SAKARYA CAD NO: 42 SİNOP",
+    "tel" : " 0368 260 23 08"
+},
+{
+    "id" : " 320",
+    "il" : " 19",
+    "ad" : " EGE HALI",
+    "adres" : " ADNAN MENDERES CAD NO 58 OSMANCIK / ÇORUM",
+    "tel" : " 0364 611 31 01"
+},
+{
+    "id" : " 321",
+    "il" : " 55",
+    "ad" : " KARDEŞLER PERDE",
+    "adres" : " YENİ CAMİ MAH BAFRA CAD ALAÇAM / SAMSUN",
+    "tel" : " "
+},
+{
+    "id" : " 322",
+    "il" : " 55",
+    "ad" : " ANKARA MOB.",
+    "adres" : " FAZIL AHMET PAŞA MAH FAZIL MUSTAFA PAŞA CAD NO: 69 VEZİRKÖPRÜ / SAMSUN",
+    "tel" : " 0382 847 13 71"
+},
+{
+    "id" : " 323",
+    "il" : " 55",
+    "ad" : " AYDINOĞLU",
+    "adres" : " ORTA MAH KIZILAY CAD NO: 12 ÇARŞAMBA / SAMSUN",
+    "tel" : " "
+},
+{
+    "id" : " 324",
+    "il" : " 27",
+    "ad" : " NUR ÇEYİZ",
+    "adres" : " BÜYÜK PASAJ KAT 2 NO: 114   GAZİANTEP ",
+    "tel" : " 0342 218 08 63"
+},
+{
+    "id" : " 325",
+    "il" : " 61",
+    "ad" : " GÖKYILDIZ ÇEYİZ",
+    "adres" : " ÇARŞI MAH TABAKHANE CAD NO: 15 TRABZON",
+    "tel" : " 0462 321 07 89"
+},
+{
+    "id" : " 326",
+    "il" : " 28",
+    "ad" : " AFTA",
+    "adres" : " ÇITLAKKALE MAH İNÖNÜ CAD NO: 163/ 39 GİRESUN",
+    "tel" : " 0454 215  04 70"
+},
+{
+    "id" : " 327",
+    "il" : " 57",
+    "ad" : " SÜTÇÜOĞLU",
+    "adres" : " SAVAŞ SK NO: 14 BOYABAT / SİNOP",
+    "tel" : " 0368 315 53 54"
+},
+{
+    "id" : " 328",
+    "il" : " 7",
+    "ad" : " ATILGAN TOPTAN",
+    "adres" : " İSMETPAŞA CAD NO: 49 ATILGAN İŞ MERKEZİ ANTALYA ",
+    "tel" : " 0242 243 33 00"
+},
+{
+    "id" : " 329",
+    "il" : " 5",
+    "ad" : " BUĞSE TEKS.",
+    "adres" : " CUMHURIYET CAD BİZİM İŞ HANI NO: 84/ 48 AMASYA",
+    "tel" : " 0358 513 40 68"
+},
+{
+    "id" : " 330",
+    "il" : " 19",
+    "ad" : " GÜMÜŞ TİC",
+    "adres" : " ULUCAMİ KARŞISI CAMİKEBİR 1. SK NO: 3/B ÇORUM",
+    "tel" : " 0364 213 54 79"
+},
+{
+    "id" : " 331",
+    "il" : " 19",
+    "ad" : " B'TÜLS EV TEKS.",
+    "adres" : " YENİ MAH SEL SK NO:12 ÇORUM",
+    "tel" : " 0364 225 68 10"
+},
+{
+    "id" : " 332",
+    "il" : " 55",
+    "ad" : " ÜNAL HALI",
+    "adres" : " FATİH SULTAN MEHMET CAD NO:53 SAMSUN",
+    "tel" : " 0362 431 33 02"
+},
+{
+    "id" : " 333",
+    "il" : " 52",
+    "ad" : " GÖKÇE HALI",
+    "adres" : " SAKARYA MAH ANT CAD.NO: 12 FATSA ORDU",
+    "tel" : " 0452 423 13 19"
+},
+{
+    "id" : " 334",
+    "il" : " 53",
+    "ad" : " ÇOLAKOĞLU PERDE",
+    "adres" : " YENİ CAMİ MEYDANI ÇAYELİ/ RİZE",
+    "tel" : " 0464 532 72 39"
+},
+{
+    "id" : " 335",
+    "il" : " 29",
+    "ad" : " AĞAÇLAR ÇEYİZ",
+    "adres" : " CUMHURIYET CAD NO: 9 GÜMÜŞHANE",
+    "tel" : " 0456 213 19 92"
+},
+{
+    "id" : " 336",
+    "il" : " 44",
+    "ad" : " İLAYDA KOZMETİK",
+    "adres" : " SALKÖPRÜ MAH SAN CAD ASLANTEPE YAPI KOOP NO: 19/20 MALATYA MERKEZ",
+    "tel" : " "
+},
+{
+    "id" : " 337",
+    "il" : " 55",
+    "ad" : " MURATOĞLU",
+    "adres" : " ALAÇAM CAD NO: 38 BAFRA / SAMSUN",
+    "tel" : " "
+},
+{
+    "id" : " 338",
+    "il" : " 8",
+    "ad" : " ÇEYİZ PERDE",
+    "adres" : " İNÖNÜ CAD NO: 40 HOPA KEMALPAŞA / ARTVİN",
+    "tel" : " "
+},
+{
+    "id" : " 339",
+    "il" : " 60",
+    "ad" : " BELKAYALILAR",
+    "adres" : " DİNÇERLER CAD NO: 67 ZİLE / TOKAT",
+    "tel" : " "
+},
+{
+    "id" : " 340",
+    "il" : " 19",
+    "ad" : " EMNİYET TOPTAN",
+    "adres" : " AZAP AHMET SK SEGAM İŞ MERKEZİ NO: 14 ÇORUM",
+    "tel" : " 0364 225 25 45"
+},
+{
+    "id" : " 341",
+    "il" : " 55",
+    "ad" : " GÖKMEN MOB.",
+    "adres" : " PAZAR MAHALLESİ FATİH CAD 19 MAYIS / SAMSUN",
+    "tel" : " 0362 511 26 81"
+},
+{
+    "id" : " 342",
+    "il" : " 5",
+    "ad" : " AYDINLAR TİC.",
+    "adres" : " YEMİŞEN MAH HÜKÜMET CAD NO: 17 TAŞOVA / AMASYA",
+    "tel" : " 0532 205 86 33"
+},
+{
+    "id" : " 343",
+    "il" : " 5",
+    "ad" : " İRFAN TİC.",
+    "adres" : " KOCACIK ÇARŞISI İĞNECİ BABA SK NO: 20 AMASYA",
+    "tel" : " 0358 218 36 08"
+},
+{
+    "id" : " 344",
+    "il" : " 60",
+    "ad" : " ÇEYİZ MAĞAZASI",
+    "adres" : " HÜKÜMET CAD NO: 124 ERBA / TOKAT",
+    "tel" : " 0543 545 76 71"
+},
+{
+    "id" : " 345",
+    "il" : " 39",
+    "ad" : " EVKUR LÜLEBURGAZ",
+    "adres" : "KOCA SİNAN MAH. İSTANBUL CAD.NO:40/A LÜLEBURGAZ/KIRKLARELI",
+    "tel" : " "
+},
+{
+    "id" : " 346",
+    "il" : " 58",
+    "ad" : " YÖN AVM SİVAS",
+    "adres" : " ÇARŞIBAŞI MAH. ATATÜRK CAD. NO:17/A SİVAS",
+    "tel" : " 0346 225 40 30"
+},
+{
+    "id" : " 347",
+    "il" : " 3",
+    "ad" : " YÖN AVM AFYON",
+    "adres" : " DUMLUPINAR MAH. AMBAR YOLU KADIN ANA CAD. NO:21 AFYON",
+    "tel" : " 0272 213 44 85"
+},
+{
+    "id" : " 348",
+    "il" : " 34",
+    "ad" : " CAKA PAZARLAMA",
+    "adres" : " NECİP FAZIL MAH. 19 MAYIS CAD. NO:18 DUDULLU",
+    "tel" : " 0216 365 62 18"
+},
+{
+    "id" : " 349",
+    "il" : " 34",
+    "ad" : " MERVE AVM",
+    "adres" : " M.Akif Mah.Şahinbey Cad.NO:77 Çekmeköy.İst",
+    "tel" : " 0216 642 4207"
+},
+{
+    "id" : " 350",
+    "il" : " 34",
+    "ad" : " OKYAY-CAN AVM ",
+    "adres" : " ŞAHİNBEY CAD. NO:34  ÜMRANİYR",
+    "tel" : " 0216 641 33 94"
+},
+{
+    "id" : " 351",
+    "il" : " 16",
+    "ad" : " GELİN HAVLU",
+    "adres" : " ŞEHREKÜSTÜ MAH. ESKİ İPEK HAN NO:51  BURSA",
+    "tel" : " 0224 220 88 63"
+},
+{
+    "id" : " 352",
+    "il" : " 52",
+    "ad" : " DENİZ MOBİLYA AKKUŞ",
+    "adres" : " MERKEZ MAH. İSTİKLAL CAD. NO:75 AKKUŞ ORDU",
+    "tel" : " 0452 6112192"
+},
+{
+    "id" : " 353",
+    "il" : " 52",
+    "ad" : " ÖZNUR MOBİLYA",
+    "adres" : " KALEDERE MAH. ÖZNUR KARTAL CAD. NO:25 ÜNYE ORDU",
+    "tel" : " 0452 324 34 35 "
+},
+{
+    "id" : " 354",
+    "il" : " 28",
+    "ad" : " ELA TEKSTİL",
+    "adres" : " HACISIYAM MAH. İNÖNÜ CAD. NO:77/A GİRESUN",
+    "tel" : " 0454 2120100"
+},
+{
+    "id" : " 355",
+    "il" : " 8",
+    "ad" : " RABİTELLİ MOBİLYA",
+    "adres" : " HÜKÜMET CAD. ARDANUÇ ARTVİN",
+    "tel" : " 0466 611 28 50"
+},
+{
+    "id" : " 356",
+    "il" : " 19",
+    "ad" : " KALKAN EV TEKS",
+    "adres" : " ÇÖPLÜ MAH. OSMANCIK CAD. NO:79 ÇORUM",
+    "tel" : " 0364 777 01 41"
+},
+{
+    "id" : " 357",
+    "il" : " 28",
+    "ad" : " APAYDIN TİCARET",
+    "adres" : " GAZİ CAD. SUAT AKGÜN SOK. NO:9 GİRESUN",
+    "tel" : " 0532 548 73 66"
+},
+{
+    "id" : " 358",
+    "il" : " 61",
+    "ad" : " ÖZGÖREN ÇEYİZ",
+    "adres" : " ÇARŞI MAH. ORTA SOK. NO:31 SÜRMENE TRABZON",
+    "tel" : " 0462 746 25 85"
+},
+{
+    "id" : " 359",
+    "il" : " 38",
+    "ad" : " DENİZLİ ÇEYİZ",
+    "adres" : " FEVZİ ÇAKMAK MAH. YEŞİLIRMAK CAD. GÜL APT. NO:15/C KAYSERİ",
+    "tel" : " 0352 233 89 59"
+},
+{
+    "id" : " 360",
+    "il" : " 37",
+    "ad" : " ABT BAYSAN",
+    "adres" : " BARUTÇUOĞLU AVM NO:A/65 KASTAMONU",
+    "tel" : " 0366 212 25 95"
+},
+{
+    "id" : " 361",
+    "il" : " #ANY",
+    "ad" : " ALİ ÖZKAN",
+    "adres" : " ELMALI MAH. KAZIM ÖZALP CAD. NO:89 MURATPAŞA ANTALYA",
+    "tel" : " 0242 2418261"
+},
+{
+    "id" : " 362",
+    "il" : " 21",
+    "ad" : " SELİMBEYOĞULLARI TEKS",
+    "adres" : " GAZİ CAD. UĞUR İŞ HANI KAT: 1 NO: 23    / DİYARBAKIR",
+    "tel" : " 0412 224 72 02"
+},
+{
+    "id" : " 363",
+    "il" : " 37",
+    "ad" : " TAŞÇILAR TİCARET",
+    "adres" : " M. KEMAL PAŞA CAD. NO:6  İNEBOLU KASTAMONU",
+    "tel" : " 0366 811 32 30"
+},
+{
+    "id" : " 364",
+    "il" : " 38",
+    "ad" : " GERÇEL TİCARET",
+    "adres" : " CUMHURİYET MAH. VATAN CAD. NO: 18 KAYSERİ",
+    "tel" : " 0352 231 50 65"
+},
+{
+    "id" : " 365",
+    "il" : " 55",
+    "ad" : " KARTALLAR HALI SARAY",
+    "adres" : " FATİH SULTAN MEHMET CAD. NO:17/21 MERKEZ SAMSUN",
+    "tel" : " 0362 431 41 80"
+},
+{
+    "id" : " 366",
+    "il" : " 61",
+    "ad" : " KRENDİ ÇEYİZ",
+    "adres" : " İNÖNÜ CD. PULUT HANE İŞ MERKEZİ AKÇAABAT TRABZON",
+    "tel" : " 0462 228 8393"
+},
+{
+    "id" : " 367",
+    "il" : " 19",
+    "ad" : " ÖZDEMİRKAYA HALI",
+    "adres" : " KALE MAH. UĞURMUMCU CAD. NO:36 ÇORUM",
+    "tel" : " 0362 420 09 74"
+},
+{
+    "id" : " 368",
+    "il" : " 61",
+    "ad" : " DOĞAN HALI",
+    "adres" : " G.HATUN MAH. İNÖNÜ CAD. İL JANDARMA GARNİZON YANI  ATAPARK TRABZON",
+    "tel" : " "
+},
+{
+    "id" : " 369",
+    "il" : " 61",
+    "ad" : " YILDIRIMLAR HALI",
+    "adres" : " CUMHURİYET MAH. YAVUZ SELİM BULVARI NO:72 TRABZON",
+    "tel" : " 0462 326 30 87"
+},
+{
+    "id" : " 370",
+    "il" : " 61",
+    "ad" : " EVİM PERDE ÇEYİZ",
+    "adres" : " KEMALİYE MAH FATİH CAD NO: 36 / A VAKFIKEBİR/ TRABZON",
+    "tel" : " 0462 841 40 44"
+},
+{
+    "id" : " 373",
+    "il" : " 34",
+    "ad" : " EVSHOP SULTANGAZİ",
+    "adres" : " ESKİ EDİRNE ASFALTI NO:581/A  SULTANGAZİ İSTANBUL",
+    "tel" : " 0212 619 03 96-98"
+},
+{
+    "id" : " 374",
+    "il" : " 63",
+    "ad" : " EVSHOP ŞANLIURFA",
+    "adres" : " SARAYÖNÜ CAD.NO:69 Ş.URFA",
+    "tel" : " 0414 216 15 10"
+},
+{
+    "id" : " 375",
+    "il" : " 31",
+    "ad" : " EVSHOP İSKENDERUN",
+    "adres" : " ŞEHİTPAMİR CAD.NO:44  İSKENDERUN HATAY",
+    "tel" : " 0326 613 66 10"
+},
+{
+    "id" : " 376",
+    "il" : " 64",
+    "ad" : " YÖN AVM UŞAK",
+    "adres" : " FEVZİ ÇAKMAK MAH.HALİL KAYA GEDİK BULVARI 142/A  MERKEZ UŞAK",
+    "tel" : " 0276 224 5501-02-03-04-05"
+},
+{
+    "id" : " 377",
+    "il" : " 34",
+    "ad" : " ÇEYİZ SHOP",
+    "adres" : " TAYAHATUN MAH.MAHMUTPAŞA YOKUŞU CAD.NO:47 FATİH/EMİNÖNÜ İSTANBUL",
+    "tel" : " 0505 819 08 12 "
+},
+{
+    "id" : " 378",
+    "il" : " 55",
+    "ad" : " KAŞKAR HALI SAMSUN",
+    "adres" : " ATATÜRK BULVARI KÖRFEZ MAH.NO: 172  KURUPELİT / SAMSUN",
+    "tel" : " 0362 457 75 76"
+},
+{
+    "id" : " 379",
+    "il" : " 34",
+    "ad" : " SOYLU AVM ESENLER",
+    "adres" : " FEVZİ ÇAKMAK MAH.1107 SOKAK NO: A/7  ESENLER ",
+    "tel" : " 0212 645 16 45"
+},
+{
+    "id" : " 380",
+    "il" : " 34",
+    "ad" : " SOYLU AVM BAYRAMPAŞA",
+    "adres" : " YILDIRIM MAH.ALİ FUAT BAŞGİL CAD. NO:63",
+    "tel" : " 0 212 437 37 68"
+},
+{
+    "id" : " 381",
+    "il" : " 34",
+    "ad" : " SOYLU AVM ŞEHREMİNİ",
+    "adres" : " SARAY MEYDANI NO:40",
+    "tel" : " 0 212 585 23 66"
+},
+{
+    "id" : " 382",
+    "il" : " 34",
+    "ad" : " SOYLU AVM K.M.PAŞA",
+    "adres" : " SEYİTÖMER MAH. ALTIMERMER CAD. NO:25-27-29",
+    "tel" : " 0 212 588 13 85"
+},
+{
+    "id" : " 383",
+    "il" : " 52",
+    "ad" : " SOYLU AVM ORDU",
+    "adres" : " YENI MH.İSMET PAŞA CAD. NO:53   FİDANGÖR-ORDU",
+    "tel" : " 0 452 666 66 11"
+},
+{
+    "id" : " 384",
+    "il" : " 1",
+    "ad" : " SOYLU AVM ADANA",
+    "adres" : " KURUKÖPRÜ MAH. ÇAKMAK CAD.NO:33   SEYHAN-ADANA",
+    "tel" : " 0 322 363 67 28"
+},
+{
+    "id" : " 385",
+    "il" : " 52",
+    "ad" : " SOYLU AVM FATSA",
+    "adres" : " MUSTAFA KEMAL PAŞA MAH. REŞİDİYE CAD.NO:32    FATSA/ ORDU",
+    "tel" : " 0 452 666 66 11"
+},
+{
+    "id" : " 386",
+    "il" : " 52",
+    "ad" : " SOYLU AVM FATSA",
+    "adres" : " MUSTAFA KEMAL PAŞA MAH. REŞİDİYE CAD.NO:32    FATSA/ ORDU",
+    "tel" : " 0 452 666 66 11"
+},
+{
+    "id" : " 387",
+    "il" : " 34",
+    "ad" : " SOYLU AVM GÜNEŞLİ",
+    "adres" : " MERKEZ MAH. EVREN CD.NO:28",
+    "tel" : " 0 212 489 40 05"
+},
+{
+    "id" : " 388",
+    "il" : " 55",
+    "ad" : " SOYLU AVM SAMSUN",
+    "adres" : " KALE MAH. GAZİ CAD. NO:2/A  İLKADIM-SAMSUN",
+    "tel" : " 0 362 432 30 44"
+},
+{
+    "id" : " 389",
+    "il" : " 25",
+    "ad" : " KESKİN TEKSTİL ERZURUM",
+    "adres" : " ŞÜKRÜPAŞA MAH.ÇAYKUR CAD.ÖZEL EVLER ALTI NO:2  ERZURUM",
+    "tel" : " 0442 242 72 55"
+},
+{
+    "id" : " 390",
+    "il" : " 16",
+    "ad" : " MURTA SÖYLER TEKS BURSA",
+    "adres" : " YENİ YALOVA YOLU NO: 289-291 OSMANGAZİ  BURSA",
+    "tel" : " 0224 251 70 72 "
+},
+{
+    "id" : " 391",
+    "il" : " 34",
+    "ad" : " CİHAN BİLİŞİM",
+    "adres" : " MERCAN MAH. RIZAPAŞA YOKUŞU NO:3/102 AKASYA HAN S.HAMAM  FATİH",
+    "tel" : " 0212 514 00 05"
+},
+{
+    "id" : " 392",
+    "il" : " 34",
+    "ad" : " SULTANS TEKS",
+    "adres" : " SULTANHAMAM SURİRİ MAH.KAPUTÇULAR CAD.HAMDİBEY GEÇİDİ NO:2-4 SİRKECİ  İSTANBUL",
+    "tel" : " 0212 522 06 04"
+},
+{
+    "id" : " 393",
+    "il" : " 16",
+    "ad" : " GÜMÜŞHAN",
+    "adres" : " DİK KALDIRIM CAD. NO:91  OSMANGAZİ BURSA",
+    "tel" : " 0224 239 31 13"
+},
+{
+    "id" : " 394",
+    "il" : " 38",
+    "ad" : " EMRE TEKS KAYSERİ",
+    "adres" : " BANKALAR CAD. NO: 9 A  MELİKGAZİ  KAYSERİ",
+    "tel" : " 0352 231 25 82"
+},
+{
+    "id" : " 395",
+    "il" : " 34",
+    "ad" : " YÖRÜK HALI",
+    "adres" : " 100. YIL MAH.BARBOROS CAD. 27.SOK NO:2/A  BAĞCILAR",
+    "tel" : " 0532 745 30 22"
+},
+{
+    "id" : " 396",
+    "il" : " 34",
+    "ad" : " YÖRÜK HALI",
+    "adres" : " 100. YIL MAH.BARBOROS CAD. 27.SOK NO:2/A  BAĞCILAR",
+    "tel" : " 0532 745 30 22"
+},
+{
+    "id" : " 397",
+    "il" : " 67",
+    "ad" : " ERTEMLER TEKS ZONGULDAK",
+    "adres" : " SOĞUKSU CAMİİ SK. NO: 10 /B ZONGULDAK",
+    "tel" : " 0372 253 03 22"
+},
+{
+    "id" : " 398",
+    "il" : " 1",
+    "ad" : " ZAİMOĞLU",
+    "adres" : " ÖZGÜR MAH.GİRNE BULVARI NO: 99/ A  YÜREĞİR ADANA",
+    "tel" : " 0322 303 03 03 - 04"
+},
+{
+    "id" : " 399",
+    "il" : " 4",
+    "ad" : " ASİL PERDE AĞRI",
+    "adres" : " ESKİ VAN CAD. NO: 30  AĞRI",
+    "tel" : " 0472 215 89 98"
+},
+{
+    "id" : " 400",
+    "il" : " 31",
+    "ad" : " MENDERES PERDE",
+    "adres" : " MEYDAN MAH. ŞEYHOĞLU SK. NO: 32  ANTAKYA HATAY",
+    "tel" : " 0326 213 31 33 - 212 61 31"
+},
+{
+    "id" : " 401",
+    "il" : " 1",
+    "ad" : " GİZERLER ADANA",
+    "adres" : " TURHAN CEMAL BERİKER BULVARI NO: 52  SEYHAN",
+    "tel" : " 0322 457 80 80 "
+},
+{
+    "id" : " 402",
+    "il" : " 1",
+    "ad" : " TANAR TESK",
+    "adres" : " REŞATBEY MAH.CUMHURİYET CAD. NO: 37 / D SEYHAN ADANA",
+    "tel" : " 0322 454 37 60"
+},
+{
+    "id" : " 403",
+    "il" : " 38",
+    "ad" : " ÖZMERCAN KAYSERİ",
+    "adres" : " CUMHURİYET MAH.VATAN CAD.NO: 19 KAYSERİ",
+    "tel" : " 0352 232 62 18"
+},
+{
+    "id" : " 404",
+    "il" : " 10",
+    "ad" : " ÖZLEM ÇEYİZ EDREMİT",
+    "adres" : " KURŞUNLU CAD. NO.29   EDREMİT BALIKESİR",
+    "tel" : " 0542 807 35 37"
+},
+{
+    "id" : " 405",
+    "il" : " 21",
+    "ad" : " NERGİZ TEKS",
+    "adres" : " BALIKÇILAR BAŞI OCAK SK.NO: 13 DİYARBAKIR",
+    "tel" : " 0412 223 79 77"
+},
+{
+    "id" : " 406",
+    "il" : " 33",
+    "ad" : " ÖZEN BRİLLİFE",
+    "adres" : " YENİ MAH. 5330 SK.NO: 47 / C MERSİN",
+    "tel" : " 0533 689 09 96"
+},
+{
+    "id" : " 407",
+    "il" : " 21",
+    "ad" : " AKA TEKS",
+    "adres" : " UĞUR İŞ HANI NO: 27  BALIKÇILARBAŞI DİYARBAKIR",
+    "tel" : " 0412 223 35 23"
+},
+{
+    "id" : " 408",
+    "il" : " 48",
+    "ad" : " MERKEZ MEFRUŞAT",
+    "adres" : " CUMHURİYET MAH.TÜTÜN SK.NO: 25  FETHİYE MUĞLA",
+    "tel" : " 0252 612 93 90"
+},
+{
+    "id" : " 409",
+    "il" : " 61",
+    "ad" : " BULUT TİCARET TRABZON",
+    "adres" : " ÇARŞI MAH. BEDESTEN CAD.NO: 27  TARABZON",
+    "tel" : " 0462 322 22 67"
+},
+{
+    "id" : " 411",
+    "il" : " 21",
+    "ad" : " EVİNÇ TEKS",
+    "adres" : " MELİKAHMET VAD.VAKIFLAR İŞ HANI KAT:  1  NO. 19 DİYARBAKIR",
+    "tel" : " 0412 228 40 48- 228 48 51"
+},
+{
+    "id" : " 412",
+    "il" : " 23",
+    "ad" : " ENGİNLER PERDE ELAZIĞ",
+    "adres" : " BANKALAR CAD. NO: 10 ELAZIĞ",
+    "tel" : " 0424 238 03 08 "
+},
+{
+    "id" : " 413",
+    "il" : " 11",
+    "ad" : " ZMS BOZÜYÜK",
+    "adres" : " KASIMPAŞA MAH..TURFANDA SOKAK NO: 4  BOZÜYÜK BİLECİK",
+    "tel" : " 0228 314 72 71"
+},
+{
+    "id" : " 414",
+    "il" : " 47",
+    "ad" : " IŞIKLAR ÇEYİZ MARDİN",
+    "adres" : " ESKİ SEBZE HALİ NO:44  NUSAYDİN MARDİN",
+    "tel" : " 0482 415 36 49"
+},
+{
+    "id" : " 415",
+    "il" : " 48",
+    "ad" : " YARIMAĞA TEKS MUĞLA",
+    "adres" : " ESKİ DEMİRCİLER MEYDANI GÜMÜŞKESEN PASAJI NO:2 MİLAS muĞal",
+    "tel" : " 0532 615 30 79"
+},
+{
+    "id" : " 416",
+    "il" : " 8",
+    "ad" : " BULUT GİYİM HOPA",
+    "adres" : " İNÖNÜ CAD. NO:58  HOPA ARTVİN",
+    "tel" : " 0542 524 62 85"
+},
+{
+    "id" : " 417",
+    "il" : " 20",
+    "ad" : " SİYAH BEYAZ TEKS",
+    "adres" : " SARAYLAR MAH. GAZİMUSTAFA KEMAL BULVARI BABADAĞLILAR İŞ HANI NO: 63  DENİZLİ",
+    "tel" : " 0538 357 17 27"
+},
+{
+    "id" : " 418",
+    "il" : " 20",
+    "ad" : " ABC TEKS DENİZLİ",
+    "adres" : " BABADAĞLAR İŞ HANI NO: 33 -34  DENİZLİ",
+    "tel" : " 0258 263 47 25 "
+},
+{
+    "id" : " 419",
+    "il" : " 20",
+    "ad" : " HASKAN TEKS DENİZLİ",
+    "adres" : " BABADAĞLILAR İŞ HANI N:  73-74 -76 DENİZLİ",
+    "tel" : " 0258 261 34 72"
+},
+{
+    "id" : " 420",
+    "il" : " 23",
+    "ad" : " ORAKÇIOĞLU ELAZIĞ",
+    "adres" : " ŞEHİT BİNBAŞI SABRİ SK. NO: 13  ELAZIĞ",
+    "tel" : " 0424 233 41 00 "
+},
+{
+    "id" : " 421",
+    "il" : " 15",
+    "ad" : " ÇETİN TEKS BURDUR",
+    "adres" : " GAZİ CAD. ÇİLOĞLU SK. NO. 9  BURDUR",
+    "tel" : " 0248 233 37 97"
+},
+{
+    "id" : " 422",
+    "il" : " 24",
+    "ad" : " PUDRA İÇ GİYİM",
+    "adres" : " ORDU CAD. NO: 18 ERZİNCAN",
+    "tel" : " 0505 851 85 33"
+},
+{
+    "id" : " 423",
+    "il" : " 34",
+    "ad" : " ÖZ FATİH ",
+    "adres" : " 50. YIL MAH. I CAD.NO: 101 İSTANBUL",
+    "tel" : " "
+},
+{
+    "id" : " 424",
+    "il" : " 10",
+    "ad" : " YALÇIN ÇEYİZ",
+    "adres" : " KURTULUŞ MAH. BANYOLAR CAD.NO: 12/ A  GÖNEN",
+    "tel" : " 0266 762 36 00-762 11 77"
+},
+{
+    "id" : " 425",
+    "il" : " 1",
+    "ad" : " KARAŞİN TEKSTİL",
+    "adres" : " ONUR MAH.TURHANCEMİL BERİKER BULVARI NO: 411/ A SEYHAN ADANA",
+    "tel" : " 0322 429 00 13- 429 00 93"
+},
+{
+    "id" : " 426",
+    "il" : " 20",
+    "ad" : " CEMETEKS DENİZLİ",
+    "adres" : " İSTASYON CAD. NO:56 DENİZLİ",
+    "tel" : " 0258 241 19 00"
+},
+{
+    "id" : " 427",
+    "il" : " 42",
+    "ad" : " GÜLESİN ÇEYİZ",
+    "adres" : " UZUNÇARŞI NO: 8  EREĞLİ KONYA",
+    "tel" : " 0332 713 05 55"
+},
+{
+    "id" : " 428",
+    "il" : " 33",
+    "ad" : " HATEMOĞLU MEFRUŞAT",
+    "adres" : " NUSRATİYE MAH. ÇAKMAK CAD. NO:  105  AKDENİZ MERSİN",
+    "tel" : " 0506 992 62 59"
+},
+{
+    "id" : " 429",
+    "il" : " 38",
+    "ad" : " MERTAŞ TEKS",
+    "adres" : " OSMANKAVUNCU MAH. 1021. SOKAK NO:  6 KAYSERİ",
+    "tel" : " 0352 231 31 54"
+},
+{
+    "id" : " 430",
+    "il" : " 34",
+    "ad" : " EV MODA GÜNGÖREN",
+    "adres" : " SANAYİ MAH. GAZİOSMANPAŞA CAD.NO: 65 GÜNGÖREN",
+    "tel" : " 0212 504 39 39"
+},
+{
+    "id" : " 431",
+    "il" : " 34",
+    "ad" : " EV MODA ESENLER",
+    "adres" : " FEVZİÇAKMAK MAH.ATIŞALANI CAD.NO: 80  ESENLER İSTANBUL",
+    "tel" : " 0212 562 54 54"
+},
+{
+    "id" : " 432",
+    "il" : " 34",
+    "ad" : " EV MODA SEFAKÖY",
+    "adres" : " TEVFİKBEY MAH. MERKEZ CAD. NO: 18 SEFAKÖY İSTANBUL",
+    "tel" : " 0212 580 63 63"
+},
+{
+    "id" : " 433",
+    "il" : " 6",
+    "ad" : " EVSHOP POLATLI",
+    "adres" : " ANKARA CAD.NO: 4  POLATLI  ANKARA",
+    "tel" : " 0312 651 47 16"
+}
+]
